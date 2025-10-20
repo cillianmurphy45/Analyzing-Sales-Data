@@ -1,0 +1,1001 @@
+Product_ID,Sale_Date,Sales_Rep,Quantity_Sold,Product_Category,Unit_Cost,Unit_Sale_Price,Customer_Type,Discount,Payment_Method,Sales_Channel,Total_Sale_Amount_No_Discount,Total_Sale_Amount_with_Discount,Total_Unit_Cost_of_Sale,Total_Profit_Per_Sale,Provence,Provence_and_Sales_Rep
+1052,2023-02-03,Bob,18,Furniture,152.75,267.22,Returning,0.09,Cash,Online,4809.960000000001,4377.06,2749.5,1627.56,Ulster,Ulster-Bob
+1093,2023-04-21,Bob,17,Furniture,3816.39,4209.44,Returning,0.11,Cash,Retail,71560.48,63688.83,64878.63,-1189.8,Connacht,Connacht-Bob
+1015,2023-09-21,David,30,Food,261.56,371.4,Returning,0.2,Bank Transfer,Retail,11142.0,8913.6,7846.8,1066.8,Munster,Munster-David
+1072,2023-08-24,Bob,39,Clothing,4330.03,4467.75,New,0.02,Credit Card,Retail,174242.25,170757.4,168871.16999999998,1886.23,Munster,Munster-Bob
+1061,2023-03-24,Charlie,13,Electronics,637.37,692.71,New,0.08,Credit Card,Online,9005.23,8284.81,8285.81,-1.0,Leinster,Leinster-Charlie
+1021,2023-02-11,Charlie,32,Food,900.79,1106.51,New,0.21,Cash,Online,35408.32,27972.57,28825.28,-852.71,Connacht,Connacht-Charlie
+1083,2023-04-11,Bob,29,Furniture,2408.81,2624.09,Returning,0.14,Cash,Online,76098.61,65444.8,69855.49,-4410.69,Connacht,Connacht-Bob
+1087,2023-01-06,Eve,46,Furniture,3702.51,3964.65,New,0.12,Bank Transfer,Online,182373.9,160489.03,170315.46000000002,-9826.43,Munster,Munster-Eve
+1075,2023-06-29,David,30,Furniture,738.06,1095.45,New,0.05,Bank Transfer,Online,32863.5,31220.32,22141.8,9078.52,Munster,Munster-David
+1075,2023-10-09,Charlie,18,Clothing,2228.35,2682.34,New,0.13,Bank Transfer,Online,48282.12,42005.44,40110.299999999996,1895.14,Connacht,Connacht-Charlie
+1088,2023-11-16,Eve,13,Furniture,2440.11,2517.6,New,0.23,Bank Transfer,Retail,32728.8,25201.18,31721.43,-6520.25,Ulster,Ulster-Eve
+1100,2023-08-14,Bob,43,Food,1100.81,1137.44,Returning,0.08,Bank Transfer,Online,48909.920000000006,44997.13,47334.829999999994,-2337.7,Connacht,Connacht-Bob
+1024,2023-11-11,Eve,21,Food,622.01,641.09,Returning,0.0,Bank Transfer,Retail,13462.890000000001,13462.89,13062.21,400.68,Connacht,Connacht-Eve
+1003,2023-12-31,Alice,30,Furniture,4190.28,4270.65,New,0.2,Cash,Online,128119.49999999999,102495.6,125708.4,-23212.8,Munster,Munster-Alice
+1022,2023-08-17,Charlie,21,Food,2537.2,2869.6,New,0.29,Bank Transfer,Retail,60261.6,42785.74,53281.2,-10495.46,Munster,Munster-Charlie
+1053,2023-10-16,Bob,48,Furniture,121.19,487.65,New,0.18,Cash,Retail,23407.199999999997,19193.9,5817.12,13376.78,Ulster,Ulster-Bob
+1002,2023-05-30,David,17,Furniture,4024.76,4420.15,Returning,0.04,Cash,Online,75142.54999999999,72136.85,68420.92,3715.93,Ulster,Ulster-David
+1088,2023-10-04,Bob,40,Electronics,4904.93,5034.35,New,0.1,Credit Card,Retail,201374.0,181236.6,196197.2,-14960.6,Leinster,Leinster-Bob
+1030,2023-07-17,David,19,Clothing,3049.33,3209.22,Returning,0.26,Cash,Online,60975.17999999999,45121.63,57937.27,-12815.64,Connacht,Connacht-David
+1038,2023-03-11,Bob,15,Clothing,2543.36,2790.1,Returning,0.07,Cash,Online,41851.5,38921.89,38150.4,771.49,Munster,Munster-Bob
+1002,2023-04-22,Eve,9,Electronics,4398.16,4439.12,New,0.18,Bank Transfer,Online,39952.08,32760.71,39583.44,-6822.73,Ulster,Ulster-Eve
+1064,2023-01-04,Eve,10,Electronics,4764.96,5074.42,New,0.12,Cash,Online,50744.2,44654.9,47649.6,-2994.7,Leinster,Leinster-Eve
+1060,2023-12-16,Eve,44,Clothing,3784.96,4276.99,New,0.06,Bank Transfer,Retail,188187.56,176896.31,166538.24,10358.07,Leinster,Leinster-Eve
+1021,2023-11-27,Alice,31,Furniture,2254.99,2441.79,Returning,0.24,Bank Transfer,Online,75695.49,57528.57,69904.68999999999,-12376.12,Munster,Munster-Alice
+1033,2023-11-14,David,23,Furniture,2981.5,3360.4,Returning,0.22,Bank Transfer,Retail,77289.2,60285.58,68574.5,-8288.92,Munster,Munster-David
+1076,2023-12-16,Eve,30,Clothing,3519.63,3774.65,New,0.2,Credit Card,Retail,113239.5,90591.6,105588.90000000001,-14997.3,Leinster,Leinster-Eve
+1058,2023-04-05,Alice,33,Furniture,1011.65,1084.28,Returning,0.07,Bank Transfer,Retail,35781.24,33276.55,33384.45,-107.9,Ulster,Ulster-Alice
+1022,2023-06-01,David,9,Electronics,2263.65,2558.95,New,0.03,Cash,Online,23030.55,22339.63,20372.850000000002,1966.78,Leinster,Leinster-David
+1089,2023-11-07,Bob,47,Furniture,4157.62,4314.56,New,0.17,Bank Transfer,Retail,202784.32,168310.99,195408.13999999998,-27097.15,Connacht,Connacht-Bob
+1049,2023-05-17,Alice,1,Furniture,3290.89,3317.75,Returning,0.17,Bank Transfer,Online,3317.75,2753.73,3290.89,-537.16,Connacht,Connacht-Alice
+1091,2023-09-04,Charlie,44,Food,2085.46,2406.58,Returning,0.06,Bank Transfer,Retail,105889.51999999999,99536.15,91760.24,7775.91,Munster,Munster-Charlie
+1059,2023-08-31,Alice,35,Food,3333.64,3764.52,Returning,0.02,Credit Card,Online,131758.2,129123.04,116677.4,12445.64,Ulster,Ulster-Alice
+1042,2023-01-31,Alice,11,Food,635.2,814.14,Returning,0.02,Cash,Online,8955.539999999999,8776.43,6987.200000000001,1789.23,Ulster,Ulster-Alice
+1092,2023-02-09,David,34,Furniture,2037.41,2238.65,New,0.3,Credit Card,Online,76114.1,53279.87,69271.94,-15992.07,Connacht,Connacht-David
+1060,2023-08-17,Bob,16,Clothing,3975.99,4422.59,New,0.24,Cash,Online,70761.44,53778.69,63615.84,-9837.15,Leinster,Leinster-Bob
+1080,2023-02-05,Charlie,9,Electronics,1141.52,1550.19,New,0.28,Credit Card,Retail,13951.710000000001,10045.23,10273.68,-228.45,Munster,Munster-Charlie
+1015,2023-08-11,Eve,32,Furniture,970.51,1330.84,Returning,0.06,Cash,Retail,42586.88,40031.67,31056.32,8975.35,Leinster,Leinster-Eve
+1062,2023-01-06,Eve,15,Clothing,4756.55,4888.46,New,0.29,Credit Card,Online,73326.9,52062.1,71348.25,-19286.15,Leinster,Leinster-Eve
+1062,2023-11-18,Alice,12,Furniture,1088.99,1545.0,Returning,0.04,Bank Transfer,Retail,18540.0,17798.4,13067.880000000001,4730.52,Leinster,Leinster-Alice
+1047,2023-08-08,David,33,Electronics,1341.55,1427.21,Returning,0.15,Credit Card,Online,47097.93,40033.24,44271.15,-4237.91,Ulster,Ulster-David
+1062,2023-03-16,David,45,Furniture,4849.6,5166.72,Returning,0.25,Credit Card,Online,232502.40000000002,174376.8,218232.00000000003,-43855.2,Connacht,Connacht-David
+1051,2023-01-04,Eve,14,Electronics,3686.81,3710.92,New,0.1,Bank Transfer,Retail,51952.880000000005,46757.59,51615.34,-4857.75,Ulster,Ulster-Eve
+1055,2023-12-01,Charlie,8,Furniture,3513.0,3838.42,Returning,0.13,Bank Transfer,Online,30707.36,26715.4,28104.0,-1388.6,Connacht,Connacht-Charlie
+1064,2023-05-14,Bob,8,Electronics,4271.99,4417.79,Returning,0.04,Cash,Online,35342.32,33928.63,34175.92,-247.29,Munster,Munster-Bob
+1003,2023-04-28,Charlie,27,Furniture,623.32,853.66,Returning,0.04,Cash,Online,23048.82,22126.87,16829.640000000003,5297.23,Munster,Munster-Charlie
+1051,2023-04-04,Bob,12,Electronics,3544.48,3723.66,Returning,0.19,Cash,Online,44683.92,36193.98,42533.76,-6339.78,Leinster,Leinster-Bob
+1007,2023-03-03,Eve,1,Food,2543.26,2637.91,Returning,0.2,Credit Card,Online,2637.91,2110.33,2543.26,-432.93,Connacht,Connacht-Eve
+1021,2023-07-13,Bob,43,Furniture,4154.3,4469.07,Returning,0.23,Cash,Retail,192170.00999999998,147970.91,178634.9,-30663.99,Connacht,Connacht-Bob
+1073,2023-12-01,David,40,Furniture,2565.3,3007.47,Returning,0.17,Credit Card,Retail,120298.79999999999,99848.0,102612.0,-2764.0,Connacht,Connacht-David
+1039,2023-07-22,Alice,42,Clothing,3120.19,3600.14,Returning,0.19,Credit Card,Retail,151205.88,122476.76,131047.98,-8571.22,Leinster,Leinster-Alice
+1018,2023-01-26,Alice,11,Clothing,2414.82,2519.07,Returning,0.0,Cash,Online,27709.77,27709.77,26563.02,1146.75,Leinster,Leinster-Alice
+1004,2023-06-22,Eve,39,Electronics,2416.89,2778.4,Returning,0.05,Cash,Online,108357.6,102939.72,94258.70999999999,8681.01,Munster,Munster-Eve
+1089,2023-10-27,David,43,Furniture,3851.45,4186.98,Returning,0.3,Credit Card,Online,180040.13999999998,126028.1,165612.35,-39584.25,Ulster,Ulster-David
+1060,2023-05-13,Charlie,31,Electronics,3161.4,3339.66,Returning,0.02,Bank Transfer,Online,103529.45999999999,101458.87,98003.40000000001,3455.47,Connacht,Connacht-Charlie
+1014,2023-11-22,David,17,Food,3184.65,3204.01,New,0.2,Bank Transfer,Online,54468.170000000006,43574.54,54139.05,-10564.51,Connacht,Connacht-David
+1009,2023-04-28,Alice,33,Clothing,2278.9,2626.9,New,0.05,Credit Card,Online,86687.7,82353.32,75203.7,7149.62,Ulster,Ulster-Alice
+1090,2023-11-20,Alice,32,Electronics,2678.99,3152.28,Returning,0.22,Cash,Retail,100872.96,78680.91,85727.68,-7046.77,Connacht,Connacht-Alice
+1053,2023-10-02,David,29,Electronics,3741.3,4061.04,Returning,0.21,Credit Card,Online,117770.16,93038.43,108497.70000000001,-15459.27,Leinster,Leinster-David
+1002,2023-07-31,David,21,Clothing,4138.41,4361.7,Returning,0.07,Credit Card,Retail,91595.7,85184.0,86906.61,-1722.61,Leinster,Leinster-David
+1084,2023-08-13,Alice,21,Furniture,3497.98,3765.31,New,0.08,Cash,Online,79071.51,72745.79,73457.58,-711.79,Connacht,Connacht-Alice
+1092,2023-01-20,Charlie,40,Electronics,4624.16,4731.98,New,0.2,Bank Transfer,Retail,189279.19999999998,151423.36,184966.4,-33543.04,Leinster,Leinster-Charlie
+1060,2023-04-23,Eve,23,Clothing,4110.6,4488.37,New,0.12,Credit Card,Online,103232.51,90844.61,94543.8,-3699.19,Leinster,Leinster-Eve
+1071,2023-05-20,Eve,6,Furniture,2831.23,3206.98,Returning,0.06,Bank Transfer,Retail,19241.88,18087.37,16987.38,1099.99,Connacht,Connacht-Eve
+1044,2023-02-16,David,22,Food,3373.46,3454.76,Returning,0.22,Bank Transfer,Retail,76004.72,59283.68,74216.12,-14932.44,Munster,Munster-David
+1008,2023-01-01,Eve,38,Clothing,4635.23,5075.44,Returning,0.05,Cash,Online,192866.71999999997,183223.38,176138.74,7084.64,Ulster,Ulster-Eve
+1047,2023-03-31,Alice,37,Electronics,3114.88,3256.78,Returning,0.26,Credit Card,Online,120500.86,89170.64,115250.56,-26079.92,Leinster,Leinster-Alice
+1035,2023-05-22,Alice,45,Food,4132.79,4624.1,New,0.15,Credit Card,Retail,208084.50000000003,176871.82,185975.55,-9103.73,Munster,Munster-Alice
+1078,2023-11-16,David,8,Furniture,3459.61,3657.23,Returning,0.03,Bank Transfer,Online,29257.84,28380.1,27676.88,703.22,Leinster,Leinster-David
+1081,2023-02-07,David,41,Furniture,2782.08,2879.24,New,0.21,Bank Transfer,Online,118048.84,93258.58,114065.28,-20806.7,Leinster,Leinster-David
+1036,2023-10-20,David,49,Clothing,1247.1,1429.44,New,0.16,Cash,Online,70042.56,58835.75,61107.899999999994,-2272.15,Ulster,Ulster-David
+1050,2023-05-19,Charlie,35,Clothing,2158.69,2384.38,Returning,0.09,Bank Transfer,Retail,83453.3,75942.5,75554.15000000001,388.35,Leinster,Leinster-Charlie
+1004,2023-12-22,Eve,11,Clothing,4840.33,4884.29,New,0.13,Cash,Online,53727.19,46742.66,53243.63,-6500.97,Ulster,Ulster-Eve
+1002,2023-11-29,David,24,Furniture,3305.94,3599.27,New,0.09,Credit Card,Retail,86382.48,78608.06,79342.56,-734.5,Ulster,Ulster-David
+1006,2023-09-16,Bob,49,Food,2843.76,3146.6,New,0.08,Cash,Retail,154183.4,141848.73,139344.24000000002,2504.49,Ulster,Ulster-Bob
+1054,2023-06-10,Bob,21,Furniture,4668.14,5040.22,New,0.05,Bank Transfer,Online,105844.62000000001,100552.39,98030.94,2521.45,Munster,Munster-Bob
+1004,2023-06-27,Alice,2,Electronics,2953.23,2977.52,Returning,0.11,Credit Card,Retail,5955.04,5299.99,5906.46,-606.47,Connacht,Connacht-Alice
+1054,2023-01-10,Eve,40,Furniture,2654.11,2929.32,Returning,0.08,Cash,Online,117172.8,107798.98,106164.40000000001,1634.58,Munster,Munster-Eve
+1093,2023-09-18,David,19,Electronics,3808.59,3844.51,New,0.21,Credit Card,Online,73045.69,57706.1,72363.21,-14657.11,Connacht,Connacht-David
+1063,2023-05-18,Bob,39,Food,3577.69,3931.25,Returning,0.21,Cash,Retail,153318.75,121121.81,139529.91,-18408.1,Connacht,Connacht-Bob
+1018,2023-06-21,Eve,28,Clothing,1006.14,1043.45,New,0.15,Bank Transfer,Retail,29216.600000000002,24834.11,28171.92,-3337.81,Ulster,Ulster-Eve
+1090,2023-01-13,Alice,17,Clothing,2382.98,2839.73,Returning,0.23,Bank Transfer,Retail,48275.41,37172.07,40510.66,-3338.59,Leinster,Leinster-Alice
+1044,2023-06-17,Charlie,6,Furniture,2388.95,2742.97,Returning,0.25,Credit Card,Retail,16457.82,12343.36,14333.699999999999,-1990.34,Ulster,Ulster-Charlie
+1034,2023-05-10,Eve,19,Clothing,1922.21,2180.83,Returning,0.17,Credit Card,Retail,41435.77,34391.69,36521.99,-2130.3,Leinster,Leinster-Eve
+1074,2023-03-25,Eve,38,Food,2610.6,2836.94,Returning,0.19,Credit Card,Online,107803.72,87321.01,99202.8,-11881.79,Connacht,Connacht-Eve
+1062,2023-11-17,Charlie,28,Clothing,2094.88,2168.91,Returning,0.08,Cash,Retail,60729.479999999996,55871.12,58656.64,-2785.52,Ulster,Ulster-Charlie
+1100,2023-11-15,Eve,2,Furniture,1036.76,1189.35,New,0.27,Bank Transfer,Online,2378.7,1736.45,2073.52,-337.07,Leinster,Leinster-Eve
+1014,2023-04-11,Alice,38,Food,2091.21,2527.0,Returning,0.01,Credit Card,Online,96026.0,95065.74,79465.98,15599.76,Munster,Munster-Alice
+1095,2023-11-25,Alice,37,Electronics,407.77,860.95,New,0.1,Credit Card,Retail,31855.15,28669.64,15087.49,13582.15,Leinster,Leinster-Alice
+1048,2023-09-30,Charlie,4,Furniture,2900.14,2910.51,New,0.22,Credit Card,Retail,11642.04,9080.79,11600.56,-2519.77,Ulster,Ulster-Charlie
+1015,2023-09-22,David,22,Electronics,4275.59,4576.72,Returning,0.02,Cash,Retail,100687.84000000001,98674.08,94062.98000000001,4611.1,Munster,Munster-David
+1072,2023-02-07,Bob,26,Food,3640.17,4002.63,New,0.05,Credit Card,Retail,104068.38,98864.96,94644.42,4220.54,Leinster,Leinster-Bob
+1078,2023-04-04,David,49,Furniture,1833.95,2147.14,Returning,0.18,Credit Card,Retail,105209.86,86272.09,89863.55,-3591.46,Leinster,Leinster-David
+1087,2023-04-05,Eve,43,Furniture,481.0,531.02,New,0.17,Cash,Online,22833.86,18952.1,20683.0,-1730.9,Leinster,Leinster-Eve
+1062,2023-11-01,Bob,36,Food,1050.64,1167.33,New,0.22,Cash,Online,42023.88,32778.63,37823.04,-5044.41,Leinster,Leinster-Bob
+1040,2023-03-10,Charlie,13,Clothing,2750.18,2882.85,Returning,0.24,Credit Card,Online,37477.049999999996,28482.56,35752.34,-7269.78,Leinster,Leinster-Charlie
+1085,2023-11-14,Charlie,32,Furniture,1074.93,1492.48,Returning,0.04,Credit Card,Retail,47759.36,45848.99,34397.76,11451.23,Munster,Munster-Charlie
+1080,2023-08-24,Bob,17,Furniture,2742.67,2979.64,Returning,0.01,Cash,Retail,50653.88,50147.34,46625.39,3521.95,Connacht,Connacht-Bob
+1082,2023-11-30,Alice,41,Electronics,1196.42,1444.97,Returning,0.21,Bank Transfer,Online,59243.770000000004,46802.58,49053.22,-2250.64,Munster,Munster-Alice
+1053,2023-05-17,Bob,36,Clothing,4252.17,4720.27,New,0.09,Cash,Retail,169929.72000000003,154636.05,153078.12,1557.93,Munster,Munster-Bob
+1024,2023-03-17,Eve,46,Electronics,2016.49,2338.66,Returning,0.19,Bank Transfer,Retail,107578.35999999999,87138.47,92758.54,-5620.07,Munster,Munster-Eve
+1026,2023-02-04,Alice,19,Electronics,1265.48,1715.83,New,0.05,Credit Card,Retail,32600.769999999997,30970.73,24044.12,6926.61,Connacht,Connacht-Alice
+1089,2023-01-01,Charlie,35,Clothing,4071.01,4304.7,New,0.14,Credit Card,Online,150664.5,129571.47,142485.35,-12913.88,Ulster,Ulster-Charlie
+1060,2023-10-23,Bob,46,Clothing,1747.05,1830.27,New,0.15,Bank Transfer,Retail,84192.42,71563.56,80364.3,-8800.74,Connacht,Connacht-Bob
+1041,2023-11-16,David,40,Food,601.86,1067.53,New,0.18,Cash,Online,42701.2,35014.98,24074.4,10940.58,Munster,Munster-David
+1029,2023-03-01,David,28,Clothing,2873.53,3108.3,New,0.15,Credit Card,Retail,87032.40000000001,73977.54,80458.84000000001,-6481.3,Leinster,Leinster-David
+1015,2023-11-16,Eve,1,Furniture,2928.74,3027.74,New,0.15,Bank Transfer,Retail,3027.74,2573.58,2928.74,-355.16,Leinster,Leinster-Eve
+1045,2023-12-15,David,42,Clothing,3587.74,3745.91,Returning,0.1,Cash,Online,157328.22,141595.4,150685.08,-9089.68,Munster,Munster-David
+1065,2023-11-24,Bob,18,Food,1239.09,1273.98,New,0.02,Bank Transfer,Retail,22931.64,22473.01,22303.62,169.39,Leinster,Leinster-Bob
+1089,2023-09-24,Bob,48,Food,2246.67,2486.14,New,0.03,Cash,Retail,119334.72,115754.68,107840.16,7914.52,Munster,Munster-Bob
+1071,2023-12-27,David,40,Food,1447.72,1875.75,New,0.13,Cash,Retail,75030.0,65276.1,57908.8,7367.3,Leinster,Leinster-David
+1009,2023-08-17,Bob,33,Clothing,450.72,918.17,Returning,0.11,Cash,Online,30299.609999999997,26966.65,14873.76,12092.89,Connacht,Connacht-Bob
+1088,2023-09-27,Eve,12,Clothing,4389.24,4856.22,Returning,0.15,Cash,Retail,58274.64,49533.44,52670.88,-3137.44,Ulster,Ulster-Eve
+1001,2023-11-12,Alice,8,Electronics,3657.91,3729.27,New,0.09,Bank Transfer,Retail,29834.16,27149.09,29263.28,-2114.19,Ulster,Ulster-Alice
+1008,2023-10-13,Eve,24,Electronics,1542.24,1739.45,Returning,0.21,Bank Transfer,Retail,41746.8,32979.97,37013.76,-4033.79,Connacht,Connacht-Eve
+1088,2023-10-18,Eve,16,Furniture,3016.9,3040.73,New,0.26,Bank Transfer,Retail,48651.68,36002.24,48270.4,-12268.16,Connacht,Connacht-Eve
+1063,2023-08-01,Bob,4,Electronics,1046.26,1475.29,Returning,0.09,Bank Transfer,Retail,5901.16,5370.06,4185.04,1185.02,Munster,Munster-Bob
+1011,2023-06-14,Alice,38,Furniture,4456.67,4642.46,New,0.06,Bank Transfer,Online,176413.48,165828.67,169353.46,-3524.79,Munster,Munster-Alice
+1081,2023-01-05,Bob,44,Food,618.79,938.04,Returning,0.03,Cash,Online,41273.759999999995,40035.55,27226.76,12808.79,Munster,Munster-Bob
+1008,2023-12-05,Charlie,27,Electronics,68.99,429.29,Returning,0.18,Credit Card,Retail,11590.83,9504.48,1862.7299999999998,7641.75,Leinster,Leinster-Charlie
+1035,2023-03-19,Bob,9,Clothing,2534.94,2755.56,Returning,0.13,Credit Card,Retail,24800.04,21576.03,22814.46,-1238.43,Munster,Munster-Bob
+1035,2023-03-03,Bob,47,Electronics,2936.48,3096.64,New,0.06,Bank Transfer,Online,145542.08,136809.56,138014.56,-1205.0,Connacht,Connacht-Bob
+1033,2023-05-12,Bob,16,Furniture,2915.88,3397.36,New,0.2,Bank Transfer,Retail,54357.76,43486.21,46654.08,-3167.87,Ulster,Ulster-Bob
+1005,2023-03-30,Alice,12,Electronics,319.83,802.43,New,0.04,Credit Card,Retail,9629.16,9243.99,3837.96,5406.03,Leinster,Leinster-Alice
+1041,2023-08-25,Bob,31,Food,1604.52,1756.34,Returning,0.17,Cash,Retail,54446.54,45190.63,49740.12,-4549.49,Munster,Munster-Bob
+1028,2023-02-11,Alice,24,Clothing,2521.03,2766.05,Returning,0.16,Bank Transfer,Retail,66385.20000000001,55763.57,60504.72,-4741.15,Leinster,Leinster-Alice
+1007,2023-03-30,David,14,Furniture,1122.07,1608.76,New,0.22,Cash,Retail,22522.64,17567.66,15708.98,1858.68,Leinster,Leinster-David
+1073,2023-10-23,Charlie,45,Clothing,4369.5,4381.89,Returning,0.02,Credit Card,Retail,197185.05000000002,193241.35,196627.5,-3386.15,Munster,Munster-Charlie
+1072,2023-11-24,Alice,25,Clothing,481.19,693.4,New,0.27,Credit Card,Retail,17335.0,12654.55,12029.75,624.8,Leinster,Leinster-Alice
+1012,2023-10-22,David,34,Furniture,2462.55,2521.77,New,0.21,Bank Transfer,Retail,85740.18,67734.74,83726.70000000001,-15991.96,Ulster,Ulster-David
+1034,2023-04-14,Alice,3,Clothing,3472.51,3732.0,New,0.06,Cash,Online,11196.0,10524.24,10417.53,106.71,Connacht,Connacht-Alice
+1033,2023-01-14,Alice,24,Clothing,1345.67,1367.76,New,0.06,Bank Transfer,Online,32826.24,30856.67,32296.08,-1439.41,Connacht,Connacht-Alice
+1048,2023-10-15,Charlie,42,Electronics,3139.99,3349.37,Returning,0.13,Credit Card,Retail,140673.54,122385.98,131879.58,-9493.6,Ulster,Ulster-Charlie
+1023,2023-06-28,Eve,9,Clothing,4155.46,4273.6,Returning,0.25,Cash,Retail,38462.4,28846.8,37399.14,-8552.34,Leinster,Leinster-Eve
+1062,2023-05-05,Eve,26,Clothing,992.17,1263.49,Returning,0.25,Bank Transfer,Retail,32850.74,24638.06,25796.42,-1158.36,Munster,Munster-Eve
+1088,2023-12-19,Alice,20,Clothing,4590.24,5088.28,New,0.16,Bank Transfer,Retail,101765.59999999999,85483.1,91804.79999999999,-6321.7,Leinster,Leinster-Alice
+1037,2023-01-23,Bob,40,Clothing,2790.11,3192.37,Returning,0.26,Bank Transfer,Online,127694.79999999999,94494.15,111604.40000000001,-17110.25,Ulster,Ulster-Bob
+1099,2023-03-04,David,10,Furniture,1531.2,1955.56,New,0.0,Credit Card,Online,19555.6,19555.6,15312.0,4243.6,Leinster,Leinster-David
+1044,2023-05-23,Bob,19,Food,2182.75,2504.03,New,0.01,Bank Transfer,Online,47576.57000000001,47100.8,41472.25,5628.55,Connacht,Connacht-Bob
+1086,2023-06-02,Bob,3,Electronics,1595.35,1625.71,New,0.27,Cash,Online,4877.13,3560.3,4786.049999999999,-1225.75,Leinster,Leinster-Bob
+1091,2023-05-25,Alice,24,Clothing,3639.3,3750.63,New,0.23,Bank Transfer,Retail,90015.12,69311.64,87343.20000000001,-18031.56,Ulster,Ulster-Alice
+1035,2023-08-13,Alice,5,Clothing,3991.69,4454.97,New,0.14,Credit Card,Retail,22274.850000000002,19156.37,19958.45,-802.08,Connacht,Connacht-Alice
+1065,2023-11-05,Alice,3,Furniture,4173.04,4362.44,New,0.23,Bank Transfer,Retail,13087.32,10077.24,12519.119999999999,-2441.88,Leinster,Leinster-Alice
+1099,2023-04-14,Alice,27,Food,4929.55,4990.33,Returning,0.29,Credit Card,Online,134738.91,95664.63,133097.85,-37433.22,Leinster,Leinster-Alice
+1047,2023-04-14,Eve,16,Clothing,3966.86,4321.04,Returning,0.23,Credit Card,Retail,69136.64,53235.21,63469.76,-10234.55,Connacht,Connacht-Eve
+1078,2023-02-08,Alice,49,Furniture,3026.85,3183.58,Returning,0.25,Cash,Retail,155995.41999999998,116996.56,148315.65,-31319.09,Munster,Munster-Alice
+1003,2023-07-17,Eve,15,Electronics,1729.14,1870.88,Returning,0.23,Cash,Online,28063.2,21608.66,25937.100000000002,-4328.44,Connacht,Connacht-Eve
+1001,2023-05-14,Eve,35,Electronics,2745.75,3244.76,New,0.05,Bank Transfer,Online,113566.6,107888.27,96101.25,11787.02,Munster,Munster-Eve
+1005,2023-03-08,Alice,12,Clothing,253.29,683.78,New,0.25,Credit Card,Online,8205.36,6154.02,3039.48,3114.54,Ulster,Ulster-Alice
+1090,2023-06-28,Charlie,41,Clothing,3736.88,3946.77,Returning,0.06,Credit Card,Online,161817.57,152108.52,153212.08000000002,-1103.56,Ulster,Ulster-Charlie
+1014,2023-02-11,David,44,Food,2257.48,2747.81,Returning,0.27,Cash,Online,120903.64,88259.66,99329.12,-11069.46,Connacht,Connacht-David
+1027,2023-01-15,Bob,26,Food,149.11,477.67,Returning,0.14,Cash,Retail,12419.42,10680.7,3876.8600000000006,6803.84,Connacht,Connacht-Bob
+1009,2023-04-21,Eve,47,Clothing,359.41,733.0,Returning,0.2,Bank Transfer,Retail,34451.0,27560.8,16892.27,10668.53,Ulster,Ulster-Eve
+1079,2023-06-06,David,34,Furniture,1967.96,1993.4,Returning,0.15,Credit Card,Online,67775.6,57609.26,66910.64,-9301.38,Munster,Munster-David
+1015,2023-10-16,Charlie,23,Food,2937.94,3007.53,Returning,0.03,Cash,Retail,69173.19,67097.99,67572.62,-474.63,Ulster,Ulster-Charlie
+1090,2023-08-19,Bob,31,Clothing,2347.81,2668.02,Returning,0.09,Bank Transfer,Retail,82708.62,75264.84,72782.11,2482.73,Connacht,Connacht-Bob
+1042,2023-06-06,Bob,20,Food,3115.06,3565.58,Returning,0.3,Credit Card,Retail,71311.6,49918.12,62301.2,-12383.08,Ulster,Ulster-Bob
+1077,2023-02-07,Eve,12,Clothing,2427.46,2743.09,New,0.29,Credit Card,Retail,32917.08,23371.13,29129.52,-5758.39,Connacht,Connacht-Eve
+1051,2023-04-07,Alice,23,Electronics,3325.43,3401.1,New,0.1,Cash,Online,78225.3,70402.77,76484.89,-6082.12,Connacht,Connacht-Alice
+1063,2023-10-16,Charlie,4,Clothing,1134.67,1201.39,New,0.3,Bank Transfer,Retail,4805.56,3363.89,4538.68,-1174.79,Ulster,Ulster-Charlie
+1096,2023-09-11,Eve,23,Electronics,608.57,1032.22,New,0.25,Cash,Retail,23741.06,17805.8,13997.11,3808.69,Munster,Munster-Eve
+1052,2023-07-15,Charlie,48,Food,3002.35,3080.61,Returning,0.18,Bank Transfer,Retail,147869.28,121252.81,144112.8,-22859.99,Leinster,Leinster-Charlie
+1096,2023-03-27,Alice,48,Clothing,2449.21,2714.12,New,0.01,Credit Card,Online,130277.76,128974.98,117562.08,11412.9,Ulster,Ulster-Alice
+1004,2023-11-18,Alice,1,Food,182.99,211.18,Returning,0.27,Bank Transfer,Retail,211.18,154.16,182.99,-28.83,Leinster,Leinster-Alice
+1094,2023-01-10,Eve,25,Electronics,1933.39,1982.92,New,0.17,Bank Transfer,Online,49573.0,41145.59,48334.75,-7189.16,Ulster,Ulster-Eve
+1023,2023-01-05,Alice,2,Clothing,575.32,914.77,Returning,0.26,Bank Transfer,Online,1829.54,1353.86,1150.64,203.22,Leinster,Leinster-Alice
+1015,2023-05-03,David,30,Food,2680.22,3027.92,Returning,0.25,Bank Transfer,Online,90837.6,68128.2,80406.59999999999,-12278.4,Munster,Munster-David
+1043,2023-11-26,Bob,3,Electronics,2009.1,2186.42,New,0.25,Bank Transfer,Online,6559.26,4919.44,6027.299999999999,-1107.86,Munster,Munster-Bob
+1029,2023-12-19,Eve,21,Food,3085.1,3200.75,New,0.21,Cash,Retail,67215.75,53100.44,64787.1,-11686.66,Ulster,Ulster-Eve
+1036,2023-04-28,Charlie,25,Furniture,4037.73,4446.45,Returning,0.09,Bank Transfer,Online,111161.25,101156.74,100943.25,213.49,Connacht,Connacht-Charlie
+1013,2023-10-21,David,20,Electronics,1533.36,1649.74,Returning,0.1,Bank Transfer,Online,32994.8,29695.32,30667.199999999997,-971.88,Leinster,Leinster-David
+1032,2023-06-08,Eve,49,Electronics,4812.41,5088.0,Returning,0.09,Credit Card,Online,249312.0,226873.92,235808.09,-8934.17,Connacht,Connacht-Eve
+1071,2023-10-30,Alice,22,Electronics,2701.39,3185.81,New,0.01,Bank Transfer,Online,70087.81999999999,69386.94,59430.579999999994,9956.36,Connacht,Connacht-Alice
+1059,2023-08-16,Alice,21,Clothing,3110.54,3192.99,New,0.17,Credit Card,Online,67052.79,55653.82,65321.34,-9667.52,Connacht,Connacht-Alice
+1086,2023-12-31,Alice,33,Clothing,3419.33,3890.36,Returning,0.21,Cash,Retail,128381.88,101421.69,112837.89,-11416.2,Munster,Munster-Alice
+1028,2023-08-04,Alice,38,Clothing,3350.32,3449.94,New,0.26,Cash,Online,131097.72,97012.31,127312.16,-30299.85,Ulster,Ulster-Alice
+1066,2023-07-03,Charlie,15,Furniture,2579.31,2867.36,Returning,0.04,Bank Transfer,Retail,43010.4,41289.98,38689.65,2600.33,Ulster,Ulster-Charlie
+1042,2023-01-15,David,46,Furniture,2172.38,2367.11,New,0.16,Cash,Retail,108887.06000000001,91465.13,99929.48000000001,-8464.35,Munster,Munster-David
+1045,2023-06-06,Bob,15,Electronics,316.22,799.04,New,0.0,Bank Transfer,Online,11985.599999999999,11985.6,4743.3,7242.3,Munster,Munster-Bob
+1062,2023-05-16,Charlie,46,Furniture,159.32,303.36,New,0.03,Cash,Retail,13954.560000000001,13535.92,7328.719999999999,6207.2,Ulster,Ulster-Charlie
+1057,2023-09-18,Charlie,25,Food,1821.91,2027.74,New,0.02,Bank Transfer,Retail,50693.5,49679.63,45547.75,4131.88,Connacht,Connacht-Charlie
+1006,2023-06-06,Bob,21,Electronics,1701.62,2193.22,New,0.22,Bank Transfer,Retail,46057.619999999995,35924.94,35734.02,190.92,Leinster,Leinster-Bob
+1028,2023-02-16,Bob,24,Electronics,1969.09,2241.96,Returning,0.02,Credit Card,Online,53807.04,52730.9,47258.159999999996,5472.74,Leinster,Leinster-Bob
+1028,2023-11-20,Alice,5,Food,734.92,991.21,Returning,0.21,Credit Card,Online,4956.05,3915.28,3674.6,240.68,Leinster,Leinster-Alice
+1044,2023-11-28,Charlie,6,Electronics,3703.93,3840.24,New,0.07,Credit Card,Online,23041.44,21428.54,22223.579999999998,-795.04,Connacht,Connacht-Charlie
+1084,2023-06-22,Eve,49,Furniture,4291.97,4645.64,Returning,0.26,Credit Card,Online,227636.36000000002,168450.91,210306.53,-41855.62,Ulster,Ulster-Eve
+1030,2023-05-10,Bob,43,Clothing,4696.64,4713.68,Returning,0.24,Bank Transfer,Online,202688.24000000002,154043.06,201955.52000000002,-47912.46,Munster,Munster-Bob
+1062,2023-04-05,Bob,48,Food,2487.19,2521.45,New,0.29,Cash,Online,121029.59999999999,85931.02,119385.12,-33454.1,Ulster,Ulster-Bob
+1075,2023-04-25,David,44,Furniture,3519.29,3822.98,Returning,0.27,Bank Transfer,Online,168211.12,122794.12,154848.76,-32054.64,Connacht,Connacht-David
+1092,2023-08-31,Eve,47,Food,4284.98,4462.4,New,0.28,Credit Card,Retail,209732.8,151007.62,201394.05999999997,-50386.44,Munster,Munster-Eve
+1089,2023-10-19,Eve,23,Food,2120.54,2597.67,Returning,0.26,Credit Card,Retail,59746.41,44212.34,48772.42,-4560.08,Connacht,Connacht-Eve
+1062,2023-10-09,Bob,4,Electronics,1581.59,2034.15,Returning,0.21,Cash,Online,8136.6,6427.91,6326.36,101.55,Leinster,Leinster-Bob
+1097,2023-10-26,Alice,27,Electronics,4686.79,5046.51,Returning,0.05,Credit Card,Retail,136255.77000000002,129442.98,126543.33,2899.65,Leinster,Leinster-Alice
+1001,2023-10-10,David,18,Furniture,2602.6,3013.49,Returning,0.08,Bank Transfer,Online,54242.81999999999,49903.39,46846.799999999996,3056.59,Connacht,Connacht-David
+1027,2023-03-10,Eve,21,Food,2511.41,2848.4,Returning,0.06,Bank Transfer,Online,59816.4,56227.42,52739.61,3487.81,Munster,Munster-Eve
+1062,2023-05-28,Bob,28,Electronics,933.16,1004.7,Returning,0.18,Bank Transfer,Online,28131.600000000002,23067.91,26128.48,-3060.57,Munster,Munster-Bob
+1077,2023-01-11,Eve,35,Electronics,585.37,970.49,Returning,0.15,Bank Transfer,Retail,33967.15,28872.08,20487.95,8384.13,Ulster,Ulster-Eve
+1003,2023-09-11,David,22,Food,4218.43,4331.42,New,0.26,Bank Transfer,Online,95291.24,70515.52,92805.46,-22289.94,Leinster,Leinster-David
+1070,2023-11-26,David,40,Furniture,3089.96,3258.45,New,0.29,Cash,Online,130338.0,92539.98,123598.4,-31058.42,Ulster,Ulster-David
+1072,2023-12-26,Charlie,23,Furniture,1662.83,2074.25,New,0.12,Bank Transfer,Online,47707.75,41982.82,38245.09,3737.73,Ulster,Ulster-Charlie
+1027,2023-02-07,Bob,3,Food,999.09,1271.99,New,0.15,Credit Card,Online,3815.9700000000003,3243.57,2997.27,246.3,Connacht,Connacht-Bob
+1009,2023-05-14,David,40,Furniture,2799.71,3231.08,Returning,0.29,Credit Card,Retail,129243.2,91762.67,111988.4,-20225.73,Connacht,Connacht-David
+1062,2023-07-19,Charlie,10,Electronics,2940.4,3054.79,Returning,0.08,Credit Card,Online,30547.9,28104.07,29404.0,-1299.93,Ulster,Ulster-Charlie
+1037,2023-01-23,Charlie,25,Food,1074.62,1382.43,Returning,0.24,Credit Card,Retail,34560.75,26266.17,26865.499999999996,-599.33,Leinster,Leinster-Charlie
+1097,2023-10-30,Eve,49,Electronics,4264.46,4315.52,New,0.07,Cash,Retail,211460.48,196658.25,208958.54,-12300.29,Connacht,Connacht-Eve
+1051,2023-12-12,Eve,8,Clothing,467.11,792.21,New,0.2,Credit Card,Online,6337.68,5070.14,3736.88,1333.26,Ulster,Ulster-Eve
+1044,2023-10-29,Charlie,11,Clothing,1812.66,2196.3,New,0.08,Cash,Online,24159.300000000003,22226.56,19939.260000000002,2287.3,Ulster,Ulster-Charlie
+1024,2023-12-29,Eve,5,Furniture,3417.9,3714.52,Returning,0.27,Credit Card,Retail,18572.6,13558.0,17089.5,-3531.5,Ulster,Ulster-Eve
+1079,2023-08-06,David,45,Clothing,1406.9,1547.35,New,0.17,Cash,Retail,69630.75,57793.52,63310.50000000001,-5516.98,Ulster,Ulster-David
+1059,2023-05-21,Alice,37,Electronics,4146.99,4172.35,Returning,0.06,Cash,Retail,154376.95,145114.33,153438.63,-8324.3,Ulster,Ulster-Alice
+1032,2023-04-14,David,45,Clothing,3712.35,3780.88,New,0.07,Cash,Retail,170139.6,158229.83,167055.75,-8825.92,Ulster,Ulster-David
+1096,2023-07-29,Charlie,38,Electronics,3955.66,4270.59,Returning,0.15,Credit Card,Online,162282.42,137940.06,150315.08,-12375.02,Connacht,Connacht-Charlie
+1088,2023-04-21,Charlie,29,Furniture,639.58,1107.45,New,0.29,Cash,Retail,32116.050000000003,22802.4,18547.82,4254.58,Leinster,Leinster-Charlie
+1052,2023-04-14,David,5,Furniture,745.71,856.91,Returning,0.23,Bank Transfer,Retail,4284.55,3299.1,3728.55,-429.45,Ulster,Ulster-David
+1062,2023-11-12,Eve,9,Electronics,1468.05,1838.21,New,0.15,Bank Transfer,Retail,16543.89,14062.31,13212.449999999999,849.86,Munster,Munster-Eve
+1058,2023-06-20,Eve,48,Clothing,2614.48,3049.04,New,0.1,Credit Card,Retail,146353.91999999998,131718.53,125495.04000000001,6223.49,Connacht,Connacht-Eve
+1052,2023-12-22,Charlie,2,Furniture,3752.68,4017.91,Returning,0.16,Bank Transfer,Online,8035.82,6750.09,7505.36,-755.27,Connacht,Connacht-Charlie
+1012,2023-11-20,Bob,1,Food,4190.83,4528.77,Returning,0.22,Bank Transfer,Online,4528.77,3532.44,4190.83,-658.39,Ulster,Ulster-Bob
+1039,2023-05-13,Eve,40,Furniture,3536.46,3945.82,New,0.24,Bank Transfer,Online,157832.80000000002,119952.93,141458.4,-21505.47,Connacht,Connacht-Eve
+1002,2023-10-20,David,30,Clothing,4646.55,4784.28,Returning,0.1,Credit Card,Retail,143528.4,129175.56,139396.5,-10220.94,Ulster,Ulster-David
+1003,2023-11-24,Eve,11,Food,3706.78,3862.26,New,0.22,Credit Card,Retail,42484.86,33138.19,40774.58,-7636.39,Leinster,Leinster-Eve
+1056,2023-05-07,David,28,Clothing,1566.03,1576.34,Returning,0.2,Bank Transfer,Online,44137.52,35310.02,43848.84,-8538.82,Leinster,Leinster-David
+1081,2023-04-16,Charlie,44,Electronics,1362.15,1844.07,New,0.29,Credit Card,Online,81139.08,57608.75,59934.600000000006,-2325.85,Connacht,Connacht-Charlie
+1059,2023-04-02,Eve,12,Food,3496.15,3955.75,Returning,0.28,Cash,Retail,47469.0,34177.68,41953.8,-7776.12,Connacht,Connacht-Eve
+1002,2023-10-14,David,39,Clothing,1004.71,1389.35,New,0.24,Bank Transfer,Online,54184.649999999994,41180.33,39183.69,1996.64,Munster,Munster-David
+1002,2023-02-20,Charlie,26,Food,508.94,557.69,New,0.22,Credit Card,Retail,14499.940000000002,11309.95,13232.44,-1922.49,Connacht,Connacht-Charlie
+1092,2023-01-29,Bob,13,Clothing,2684.5,2913.78,New,0.08,Credit Card,Retail,37879.14,34848.81,34898.5,-49.69,Munster,Munster-Bob
+1054,2023-10-23,David,8,Food,4117.13,4177.06,Returning,0.25,Bank Transfer,Retail,33416.48,25062.36,32937.04,-7874.68,Leinster,Leinster-David
+1087,2023-10-24,Bob,28,Clothing,551.83,569.63,New,0.13,Credit Card,Retail,15949.64,13876.19,15451.240000000002,-1575.05,Leinster,Leinster-Bob
+1096,2023-08-02,Bob,30,Electronics,3969.86,4281.79,Returning,0.08,Bank Transfer,Retail,128453.7,118177.4,119095.8,-918.4,Ulster,Ulster-Bob
+1097,2023-09-24,Alice,9,Food,4067.28,4548.09,Returning,0.12,Credit Card,Retail,40932.81,36020.87,36605.520000000004,-584.65,Leinster,Leinster-Alice
+1001,2023-09-14,Eve,39,Food,2437.26,2889.67,Returning,0.25,Cash,Online,112697.13,84522.85,95053.14000000001,-10530.29,Munster,Munster-Eve
+1019,2023-10-29,David,31,Food,333.69,685.1,New,0.04,Bank Transfer,Online,21238.100000000002,20388.58,10344.39,10044.19,Connacht,Connacht-David
+1002,2023-04-11,Bob,21,Food,914.22,971.57,Returning,0.14,Cash,Online,20402.97,17546.55,19198.62,-1652.07,Ulster,Ulster-Bob
+1053,2023-12-12,Alice,47,Electronics,3551.76,3696.1,Returning,0.15,Bank Transfer,Retail,173716.69999999998,147659.19,166932.72,-19273.53,Munster,Munster-Alice
+1044,2023-04-20,Charlie,34,Food,3573.3,3740.13,Returning,0.01,Credit Card,Online,127164.42,125892.78,121492.20000000001,4400.58,Connacht,Connacht-Charlie
+1090,2023-07-01,David,31,Furniture,4496.86,4880.8,New,0.06,Cash,Retail,151304.80000000002,142226.51,139402.66,2823.85,Ulster,Ulster-David
+1032,2023-11-09,Bob,25,Electronics,2934.3,3337.4,Returning,0.25,Credit Card,Retail,83435.0,62576.25,73357.5,-10781.25,Leinster,Leinster-Bob
+1070,2023-01-01,Eve,12,Furniture,664.33,863.03,Returning,0.25,Bank Transfer,Retail,10356.36,7767.27,7971.960000000001,-204.69,Munster,Munster-Eve
+1032,2023-11-15,Alice,1,Food,651.0,865.76,Returning,0.09,Bank Transfer,Retail,865.76,787.84,651.0,136.84,Connacht,Connacht-Alice
+1068,2023-02-24,Bob,22,Clothing,3619.61,3651.42,Returning,0.26,Bank Transfer,Online,80331.24,59445.12,79631.42,-20186.3,Ulster,Ulster-Bob
+1055,2023-05-29,Eve,40,Furniture,959.73,1111.41,New,0.23,Bank Transfer,Online,44456.4,34231.43,38389.2,-4157.77,Ulster,Ulster-Eve
+1075,2023-11-05,Bob,37,Food,1675.51,1906.64,New,0.13,Bank Transfer,Online,70545.68000000001,61374.74,61993.87,-619.13,Leinster,Leinster-Bob
+1056,2023-05-17,David,47,Furniture,2461.7,2529.02,Returning,0.22,Cash,Retail,118863.94,92713.87,115699.9,-22986.03,Connacht,Connacht-David
+1017,2023-07-21,David,1,Food,172.59,404.69,Returning,0.29,Bank Transfer,Online,404.69,287.33,172.59,114.74,Leinster,Leinster-David
+1038,2023-11-09,David,1,Food,1281.65,1709.71,Returning,0.14,Credit Card,Online,1709.71,1470.35,1281.65,188.7,Leinster,Leinster-David
+1024,2023-04-27,Alice,42,Food,2069.05,2363.9,Returning,0.07,Cash,Online,99283.8,92333.93,86900.1,5433.83,Connacht,Connacht-Alice
+1069,2023-06-03,David,42,Clothing,1434.2,1482.88,New,0.28,Credit Card,Retail,62280.96000000001,44842.29,60236.4,-15394.11,Connacht,Connacht-David
+1098,2023-10-18,Eve,21,Furniture,725.03,828.95,New,0.18,Bank Transfer,Online,17407.95,14274.52,15225.63,-951.11,Connacht,Connacht-Eve
+1070,2023-03-04,Bob,15,Electronics,3653.66,3896.19,New,0.03,Credit Card,Retail,58442.85,56689.56,54804.899999999994,1884.66,Munster,Munster-Bob
+1086,2023-09-01,Charlie,17,Electronics,4075.08,4262.21,New,0.17,Cash,Online,72457.57,60139.78,69276.36,-9136.58,Connacht,Connacht-Charlie
+1011,2023-01-25,Eve,22,Electronics,1324.52,1510.3,Returning,0.15,Cash,Retail,33226.6,28242.61,29139.44,-896.83,Ulster,Ulster-Eve
+1016,2023-03-31,Eve,38,Electronics,3883.38,4152.72,Returning,0.26,Cash,Online,157803.36000000002,116774.49,147568.44,-30793.95,Leinster,Leinster-Eve
+1097,2023-03-16,David,35,Food,1958.49,2254.84,New,0.16,Credit Card,Online,78919.40000000001,66292.3,68547.15,-2254.85,Munster,Munster-David
+1073,2023-10-21,Alice,45,Furniture,2558.09,2958.55,New,0.08,Cash,Online,133134.75,122483.97,115114.05,7369.92,Connacht,Connacht-Alice
+1059,2023-07-29,Bob,16,Furniture,4287.21,4464.28,Returning,0.2,Credit Card,Retail,71428.48,57142.78,68595.36,-11452.58,Munster,Munster-Bob
+1070,2023-12-13,Alice,8,Clothing,3762.27,4166.95,Returning,0.16,Bank Transfer,Online,33335.6,28001.9,30098.16,-2096.26,Connacht,Connacht-Alice
+1080,2023-01-17,Bob,47,Furniture,4035.33,4211.25,Returning,0.07,Bank Transfer,Online,197928.75,184073.74,189660.51,-5586.77,Munster,Munster-Bob
+1093,2023-05-08,Bob,17,Furniture,727.38,764.54,Returning,0.17,Credit Card,Retail,12997.18,10787.66,12365.46,-1577.8,Leinster,Leinster-Bob
+1003,2023-12-30,Alice,17,Furniture,395.11,676.66,Returning,0.25,Cash,Retail,11503.22,8627.41,6716.87,1910.54,Leinster,Leinster-Alice
+1020,2023-09-08,Eve,26,Clothing,4472.35,4770.42,New,0.01,Credit Card,Retail,124030.92,122790.61,116281.1,6509.51,Ulster,Ulster-Eve
+1059,2023-06-28,Bob,13,Electronics,1969.78,2437.7,New,0.19,Credit Card,Retail,31690.1,25668.98,25607.14,61.84,Ulster,Ulster-Bob
+1036,2023-07-01,Alice,17,Furniture,1475.0,1840.77,Returning,0.1,Credit Card,Online,31293.09,28163.78,25075.0,3088.78,Connacht,Connacht-Alice
+1019,2023-06-01,Bob,38,Clothing,3637.25,4096.96,Returning,0.09,Bank Transfer,Online,155684.48,141672.88,138215.5,3457.38,Leinster,Leinster-Bob
+1090,2023-01-25,Charlie,17,Clothing,4190.26,4645.35,New,0.12,Credit Card,Retail,78970.95000000001,69494.44,71234.42,-1739.98,Munster,Munster-Charlie
+1067,2023-06-29,Eve,48,Food,4319.32,4625.56,Returning,0.1,Bank Transfer,Online,222026.88,199824.19,207327.36,-7503.17,Munster,Munster-Eve
+1019,2023-07-17,David,14,Clothing,1614.19,1882.79,New,0.25,Credit Card,Retail,26359.059999999998,19769.29,22598.66,-2829.37,Munster,Munster-David
+1020,2023-12-10,Bob,45,Electronics,4268.45,4551.6,New,0.08,Bank Transfer,Online,204822.00000000003,188436.24,192080.25,-3644.01,Ulster,Ulster-Bob
+1096,2023-06-10,Charlie,6,Furniture,252.62,742.0,New,0.22,Credit Card,Retail,4452.0,3472.56,1515.72,1956.84,Munster,Munster-Charlie
+1071,2023-06-26,David,35,Clothing,295.82,684.67,New,0.03,Credit Card,Online,23963.449999999997,23244.55,10353.699999999999,12890.85,Ulster,Ulster-David
+1052,2023-10-12,David,46,Electronics,3136.42,3198.49,Returning,0.29,Cash,Retail,147130.53999999998,104462.68,144275.32,-39812.64,Ulster,Ulster-David
+1033,2023-03-04,Bob,14,Clothing,362.38,753.81,Returning,0.19,Cash,Retail,10553.34,8548.21,5073.32,3474.89,Connacht,Connacht-Bob
+1040,2023-05-30,Alice,47,Clothing,1656.82,1750.38,New,0.21,Credit Card,Online,82267.86,64991.61,77870.54,-12878.93,Munster,Munster-Alice
+1039,2023-06-03,Bob,8,Clothing,3380.14,3609.34,Returning,0.09,Credit Card,Online,28874.72,26276.0,27041.12,-765.12,Munster,Munster-Bob
+1082,2023-06-05,Charlie,15,Clothing,1719.47,1832.6,Returning,0.12,Credit Card,Online,27489.0,24190.32,25792.05,-1601.73,Leinster,Leinster-Charlie
+1001,2023-02-18,David,27,Clothing,939.02,1286.92,Returning,0.07,Credit Card,Retail,34746.840000000004,32314.56,25353.54,6961.02,Connacht,Connacht-David
+1011,2023-12-03,Bob,13,Electronics,1442.69,1882.57,Returning,0.28,Cash,Online,24473.41,17620.86,18754.97,-1134.11,Leinster,Leinster-Bob
+1092,2023-03-25,Alice,49,Furniture,2315.0,2467.28,New,0.15,Bank Transfer,Retail,120896.72000000002,102762.21,113435.0,-10672.79,Connacht,Connacht-Alice
+1057,2023-12-27,Bob,31,Furniture,2403.16,2453.35,Returning,0.19,Credit Card,Online,76053.84999999999,61603.62,74497.95999999999,-12894.34,Munster,Munster-Bob
+1089,2023-06-26,Eve,35,Furniture,3925.85,4082.11,New,0.22,Cash,Online,142873.85,111441.6,137404.75,-25963.15,Ulster,Ulster-Eve
+1050,2023-05-28,Alice,6,Furniture,3763.26,4102.72,New,0.11,Credit Card,Retail,24616.32,21908.52,22579.56,-671.04,Ulster,Ulster-Alice
+1023,2023-04-28,Charlie,5,Electronics,2311.25,2482.34,Returning,0.22,Credit Card,Retail,12411.7,9681.13,11556.25,-1875.12,Ulster,Ulster-Charlie
+1031,2023-12-08,David,22,Food,4236.05,4382.32,New,0.2,Bank Transfer,Online,96411.04,77128.83,93193.1,-16064.27,Ulster,Ulster-David
+1094,2023-03-04,Bob,49,Food,615.47,715.84,Returning,0.21,Credit Card,Retail,35076.16,27710.17,30158.030000000002,-2447.86,Ulster,Ulster-Bob
+1042,2023-07-08,Alice,23,Electronics,1314.0,1567.78,Returning,0.15,Credit Card,Retail,36058.94,30650.1,30222.0,428.1,Leinster,Leinster-Alice
+1099,2023-12-26,Eve,25,Electronics,4148.48,4293.69,New,0.11,Bank Transfer,Online,107342.24999999999,95534.6,103711.99999999999,-8177.4,Connacht,Connacht-Eve
+1007,2023-02-18,Alice,34,Clothing,1921.07,2289.27,Returning,0.07,Bank Transfer,Retail,77835.18,72386.72,65316.38,7070.34,Munster,Munster-Alice
+1016,2023-11-23,Eve,26,Clothing,4906.85,4954.39,New,0.25,Bank Transfer,Online,128814.14000000001,96610.61,127578.1,-30967.49,Leinster,Leinster-Eve
+1090,2023-09-14,Charlie,47,Clothing,2357.95,2693.33,New,0.18,Bank Transfer,Online,126586.51,103800.94,110823.65,-7022.71,Connacht,Connacht-Charlie
+1060,2023-08-12,David,5,Furniture,3970.08,4096.48,Returning,0.13,Cash,Retail,20482.399999999998,17819.69,19850.4,-2030.71,Ulster,Ulster-David
+1002,2023-05-21,Charlie,26,Clothing,2041.42,2291.17,Returning,0.28,Cash,Online,59570.42,42890.7,53076.92,-10186.22,Connacht,Connacht-Charlie
+1001,2023-08-03,Bob,20,Food,2153.52,2303.7,Returning,0.01,Cash,Retail,46074.0,45613.26,43070.4,2542.86,Connacht,Connacht-Bob
+1048,2023-07-30,Alice,6,Furniture,1945.27,2309.43,New,0.26,Credit Card,Online,13856.579999999998,10253.87,11671.619999999999,-1417.75,Ulster,Ulster-Alice
+1012,2023-11-14,Eve,6,Clothing,3609.42,4082.62,Returning,0.3,Bank Transfer,Retail,24495.72,17147.0,21656.52,-4509.52,Ulster,Ulster-Eve
+1069,2023-02-01,Eve,18,Furniture,2760.21,3219.58,New,0.27,Bank Transfer,Retail,57952.44,42305.28,49683.78,-7378.5,Ulster,Ulster-Eve
+1037,2023-06-07,Alice,4,Food,4721.7,5017.58,New,0.24,Cash,Retail,20070.32,15253.44,18886.8,-3633.36,Munster,Munster-Alice
+1032,2023-10-12,Alice,17,Clothing,1291.91,1528.59,Returning,0.11,Credit Card,Retail,25986.03,23127.57,21962.47,1165.1,Ulster,Ulster-Alice
+1009,2023-11-01,Bob,14,Food,547.79,958.76,Returning,0.07,Credit Card,Retail,13422.64,12483.06,7669.0599999999995,4814.0,Munster,Munster-Bob
+1099,2023-10-13,Charlie,14,Food,1996.64,2341.47,Returning,0.22,Credit Card,Online,32780.579999999994,25568.85,27952.960000000003,-2384.11,Ulster,Ulster-Charlie
+1019,2023-05-24,Eve,13,Food,3102.73,3202.68,New,0.09,Cash,Online,41634.84,37887.7,40335.49,-2447.79,Munster,Munster-Eve
+1048,2023-01-19,Bob,7,Clothing,4310.95,4723.2,Returning,0.05,Credit Card,Retail,33062.4,31409.28,30176.649999999998,1232.63,Connacht,Connacht-Bob
+1080,2023-01-18,Charlie,44,Electronics,1763.67,1983.82,New,0.24,Credit Card,Online,87288.08,66338.94,77601.48000000001,-11262.54,Leinster,Leinster-Charlie
+1003,2023-09-14,Bob,15,Clothing,3286.24,3388.84,Returning,0.09,Credit Card,Retail,50832.600000000006,46257.67,49293.6,-3035.93,Connacht,Connacht-Bob
+1020,2023-03-19,Eve,19,Food,1783.48,1931.56,Returning,0.27,Bank Transfer,Retail,36699.64,26790.74,33886.12,-7095.38,Connacht,Connacht-Eve
+1024,2023-06-24,Alice,43,Clothing,3105.24,3246.33,New,0.25,Cash,Online,139592.19,104694.14,133525.31999999998,-28831.18,Ulster,Ulster-Alice
+1054,2023-07-13,Alice,47,Food,4429.8,4694.21,New,0.25,Bank Transfer,Online,220627.87,165470.9,208200.6,-42729.7,Munster,Munster-Alice
+1033,2023-04-23,Charlie,44,Electronics,1195.22,1320.06,Returning,0.23,Bank Transfer,Retail,58082.64,44723.63,52589.68,-7866.05,Leinster,Leinster-Charlie
+1024,2023-04-24,David,35,Furniture,2051.0,2121.55,Returning,0.26,Cash,Retail,74254.25,54948.14,71785.0,-16836.86,Ulster,Ulster-David
+1075,2023-08-10,Charlie,17,Electronics,4966.66,5037.27,Returning,0.24,Bank Transfer,Retail,85633.59000000001,65081.53,84433.22,-19351.69,Ulster,Ulster-Charlie
+1072,2023-06-15,David,35,Electronics,4349.36,4645.17,Returning,0.18,Credit Card,Retail,162580.95,133316.38,152227.59999999998,-18911.22,Ulster,Ulster-David
+1036,2023-11-15,Bob,19,Furniture,2844.97,3215.0,Returning,0.09,Credit Card,Retail,61085.0,55587.35,54054.42999999999,1532.92,Connacht,Connacht-Bob
+1038,2023-05-12,Bob,20,Clothing,2607.31,2774.86,New,0.27,Credit Card,Retail,55497.200000000004,40512.96,52146.2,-11633.24,Munster,Munster-Bob
+1084,2023-09-21,Eve,36,Furniture,1458.77,1485.75,New,0.25,Credit Card,Online,53487.0,40115.25,52515.72,-12400.47,Munster,Munster-Eve
+1099,2023-02-24,David,35,Clothing,2610.19,2682.53,New,0.14,Cash,Retail,93888.55,80744.15,91356.65000000001,-10612.5,Leinster,Leinster-David
+1089,2023-12-25,Eve,32,Clothing,4248.5,4706.7,New,0.01,Bank Transfer,Retail,150614.4,149108.26,135952.0,13156.26,Munster,Munster-Eve
+1099,2023-05-11,Alice,48,Food,3441.61,3693.45,Returning,0.19,Bank Transfer,Online,177285.59999999998,143601.34,165197.28,-21595.94,Munster,Munster-Alice
+1025,2023-10-15,David,44,Food,1485.72,1717.97,New,0.02,Credit Card,Retail,75590.68000000001,74078.87,65371.68,8707.19,Ulster,Ulster-David
+1093,2023-09-23,Charlie,40,Furniture,1047.25,1075.89,New,0.28,Credit Card,Retail,43035.600000000006,30985.63,41890.0,-10904.37,Ulster,Ulster-Charlie
+1018,2024-01-01,Alice,24,Electronics,1362.78,1729.81,New,0.29,Bank Transfer,Online,41515.44,29475.96,32706.72,-3230.76,Connacht,Connacht-Alice
+1082,2023-06-11,Alice,17,Furniture,890.31,1159.06,Returning,0.06,Cash,Retail,19704.02,18521.78,15135.269999999999,3386.51,Ulster,Ulster-Alice
+1066,2023-03-28,Charlie,7,Clothing,523.42,632.44,New,0.2,Bank Transfer,Online,4427.08,3541.66,3663.9399999999996,-122.28,Ulster,Ulster-Charlie
+1054,2023-02-24,Alice,43,Food,2124.72,2188.66,Returning,0.03,Credit Card,Retail,94112.37999999999,91289.01,91362.95999999999,-73.95,Ulster,Ulster-Alice
+1035,2023-10-15,David,1,Furniture,610.83,808.69,New,0.22,Credit Card,Online,808.69,630.78,610.83,19.95,Ulster,Ulster-David
+1080,2023-06-27,Eve,35,Furniture,900.97,1321.18,Returning,0.1,Cash,Online,46241.3,41617.17,31533.95,10083.22,Connacht,Connacht-Eve
+1061,2023-12-15,Alice,32,Food,2759.26,3193.25,New,0.2,Bank Transfer,Online,102184.0,81747.2,88296.32,-6549.12,Ulster,Ulster-Alice
+1041,2023-01-08,David,36,Food,864.77,1170.16,Returning,0.11,Cash,Retail,42125.76,37491.93,31131.72,6360.21,Leinster,Leinster-David
+1100,2023-11-17,Bob,13,Food,366.2,732.69,New,0.04,Cash,Retail,9524.970000000001,9143.97,4760.599999999999,4383.37,Leinster,Leinster-Bob
+1033,2023-11-09,David,6,Clothing,1621.07,1687.5,Returning,0.12,Credit Card,Online,10125.0,8910.0,9726.42,-816.42,Leinster,Leinster-David
+1068,2023-09-04,Eve,14,Food,1140.58,1438.76,Returning,0.03,Bank Transfer,Online,20142.64,19538.36,15968.119999999999,3570.24,Leinster,Leinster-Eve
+1033,2023-11-19,David,37,Electronics,2600.76,2937.57,New,0.17,Credit Card,Retail,108690.09000000001,90212.77,96228.12000000001,-6015.35,Ulster,Ulster-David
+1014,2023-09-12,Charlie,48,Furniture,556.72,665.07,Returning,0.01,Bank Transfer,Retail,31923.36,31604.13,26722.56,4881.57,Leinster,Leinster-Charlie
+1021,2023-11-24,Eve,15,Food,3771.27,4212.55,Returning,0.16,Credit Card,Retail,63188.25,53078.13,56569.05,-3490.92,Ulster,Ulster-Eve
+1048,2023-02-23,Bob,47,Food,4535.86,4641.41,New,0.27,Credit Card,Retail,218146.27,159246.78,213185.41999999998,-53938.64,Connacht,Connacht-Bob
+1020,2023-09-06,Charlie,4,Clothing,3730.0,3893.6,New,0.25,Bank Transfer,Retail,15574.4,11680.8,14920.0,-3239.2,Leinster,Leinster-Charlie
+1008,2023-08-27,David,40,Clothing,2687.49,3001.56,Returning,0.26,Bank Transfer,Online,120062.4,88846.18,107499.59999999999,-18653.42,Munster,Munster-David
+1007,2023-08-17,Eve,16,Furniture,4310.31,4633.1,New,0.28,Credit Card,Retail,74129.6,53373.31,68964.96,-15591.65,Leinster,Leinster-Eve
+1067,2023-03-08,Bob,28,Electronics,3489.85,3842.55,New,0.03,Bank Transfer,Online,107591.40000000001,104363.66,97715.8,6647.86,Leinster,Leinster-Bob
+1017,2023-02-20,Charlie,16,Furniture,102.23,167.12,New,0.04,Credit Card,Retail,2673.92,2566.96,1635.68,931.28,Ulster,Ulster-Charlie
+1033,2023-04-07,Bob,4,Food,2000.75,2426.99,Returning,0.17,Bank Transfer,Online,9707.96,8057.61,8003.0,54.61,Leinster,Leinster-Bob
+1048,2023-04-02,David,45,Electronics,4262.21,4533.31,Returning,0.27,Credit Card,Online,203998.95,148919.23,191799.45,-42880.22,Munster,Munster-David
+1076,2023-09-21,Bob,26,Electronics,1762.0,2002.95,Returning,0.29,Credit Card,Retail,52076.700000000004,36974.46,45812.0,-8837.54,Ulster,Ulster-Bob
+1059,2023-10-18,Alice,28,Electronics,224.32,715.06,Returning,0.01,Credit Card,Online,20021.68,19821.46,6280.96,13540.5,Ulster,Ulster-Alice
+1086,2023-04-06,Charlie,32,Electronics,3743.59,4116.38,Returning,0.11,Cash,Online,131724.16,117234.5,119794.88,-2560.38,Connacht,Connacht-Charlie
+1022,2023-03-29,Bob,45,Furniture,4020.09,4087.91,Returning,0.06,Bank Transfer,Online,183955.94999999998,172918.59,180904.05000000002,-7985.46,Connacht,Connacht-Bob
+1030,2023-03-19,David,2,Clothing,844.94,1225.64,Returning,0.23,Credit Card,Online,2451.28,1887.49,1689.88,197.61,Leinster,Leinster-David
+1038,2023-10-15,David,31,Clothing,2709.84,2766.51,New,0.19,Cash,Retail,85761.81000000001,69467.07,84005.04000000001,-14537.97,Connacht,Connacht-David
+1051,2023-04-30,Bob,3,Food,1000.18,1023.64,Returning,0.04,Credit Card,Online,3070.92,2948.08,3000.54,-52.46,Connacht,Connacht-Bob
+1054,2023-10-29,David,8,Clothing,3610.21,3817.99,Returning,0.15,Cash,Retail,30543.92,25962.33,28881.68,-2919.35,Connacht,Connacht-David
+1008,2023-06-14,Eve,24,Clothing,1394.17,1891.02,New,0.21,Credit Card,Online,45384.479999999996,35853.74,33460.08,2393.66,Ulster,Ulster-Eve
+1027,2023-07-01,Eve,15,Clothing,1615.26,1710.95,New,0.23,Credit Card,Retail,25664.25,19761.47,24228.9,-4467.43,Ulster,Ulster-Eve
+1027,2023-08-11,Eve,43,Clothing,4232.61,4572.21,New,0.01,Cash,Retail,196605.03,194638.98,182002.22999999998,12636.75,Ulster,Ulster-Eve
+1098,2023-11-07,Alice,31,Food,2407.8,2502.76,Returning,0.27,Cash,Retail,77585.56000000001,56637.46,74641.8,-18004.34,Connacht,Connacht-Alice
+1021,2023-01-07,Bob,9,Furniture,3365.28,3730.43,New,0.17,Bank Transfer,Online,33573.869999999995,27866.31,30287.52,-2421.21,Ulster,Ulster-Bob
+1030,2023-11-26,Alice,39,Electronics,2041.75,2299.37,Returning,0.24,Bank Transfer,Retail,89675.43,68153.33,79628.25,-11474.92,Connacht,Connacht-Alice
+1097,2023-09-20,David,45,Clothing,1525.13,1868.32,Returning,0.24,Cash,Retail,84074.4,63896.54,68630.85,-4734.31,Ulster,Ulster-David
+1028,2023-06-10,Alice,2,Furniture,3146.12,3255.53,Returning,0.06,Bank Transfer,Online,6511.06,6120.4,6292.24,-171.84,Ulster,Ulster-Alice
+1064,2023-05-31,David,8,Clothing,816.54,1191.9,New,0.03,Cash,Retail,9535.2,9249.14,6532.32,2716.82,Munster,Munster-David
+1097,2023-03-26,David,7,Clothing,1896.35,2394.2,New,0.22,Bank Transfer,Online,16759.399999999998,13072.33,13274.449999999999,-202.12,Leinster,Leinster-David
+1069,2023-05-27,Charlie,44,Electronics,1084.73,1420.9,Returning,0.05,Credit Card,Online,62519.600000000006,59393.62,47728.12,11665.5,Connacht,Connacht-Charlie
+1061,2023-04-22,Eve,39,Electronics,3494.19,3746.0,Returning,0.25,Bank Transfer,Retail,146094.0,109570.5,136273.41,-26702.91,Munster,Munster-Eve
+1048,2023-02-05,David,42,Electronics,4723.83,5186.19,Returning,0.22,Credit Card,Online,217819.97999999998,169899.58,198400.86,-28501.28,Ulster,Ulster-David
+1019,2023-10-12,Charlie,16,Clothing,4977.78,4995.55,New,0.25,Credit Card,Online,79928.8,59946.6,79644.48,-19697.88,Connacht,Connacht-Charlie
+1004,2023-07-07,Eve,35,Clothing,2278.87,2646.53,Returning,0.09,Bank Transfer,Online,92628.55,84291.98,79760.45,4531.53,Ulster,Ulster-Eve
+1035,2023-03-23,David,30,Clothing,1300.03,1745.52,New,0.09,Cash,Retail,52365.6,47652.7,39000.9,8651.8,Leinster,Leinster-David
+1064,2023-01-02,David,10,Electronics,2242.01,2282.23,Returning,0.2,Credit Card,Online,22822.3,18257.84,22420.100000000002,-4162.26,Munster,Munster-David
+1049,2023-10-30,Alice,38,Food,4243.98,4474.51,New,0.01,Credit Card,Online,170031.38,168331.07,161271.24,7059.83,Leinster,Leinster-Alice
+1017,2023-07-16,Alice,18,Furniture,1069.73,1180.04,Returning,0.22,Bank Transfer,Online,21240.72,16567.76,19255.14,-2687.38,Munster,Munster-Alice
+1044,2023-01-11,Eve,5,Food,4762.87,5050.46,New,0.25,Cash,Retail,25252.3,18939.22,23814.35,-4875.13,Ulster,Ulster-Eve
+1092,2023-08-22,David,29,Clothing,1742.24,2070.52,New,0.12,Cash,Online,60045.08,52839.67,50524.96,2314.71,Leinster,Leinster-David
+1030,2023-07-14,Bob,39,Clothing,4929.73,5088.02,New,0.23,Bank Transfer,Retail,198432.78000000003,152793.24,192259.46999999997,-39466.23,Leinster,Leinster-Bob
+1093,2023-04-29,Alice,34,Food,4201.11,4436.5,New,0.05,Cash,Online,150841.0,143298.95,142837.74,461.21,Ulster,Ulster-Alice
+1046,2023-01-20,Eve,43,Clothing,4052.42,4199.3,New,0.1,Bank Transfer,Retail,180569.9,162512.91,174254.06,-11741.15,Leinster,Leinster-Eve
+1006,2023-09-18,David,45,Furniture,1623.63,1814.63,New,0.29,Bank Transfer,Retail,81658.35,57977.43,73063.35,-15085.92,Connacht,Connacht-David
+1099,2023-10-20,David,23,Clothing,93.45,181.62,Returning,0.3,Bank Transfer,Retail,4177.26,2924.08,2149.35,774.73,Munster,Munster-David
+1037,2023-09-13,Bob,5,Furniture,1941.56,2385.48,Returning,0.15,Credit Card,Online,11927.4,10138.29,9707.8,430.49,Munster,Munster-Bob
+1024,2023-08-10,Eve,30,Food,1543.96,1558.87,Returning,0.28,Credit Card,Online,46766.1,33671.59,46318.8,-12647.21,Munster,Munster-Eve
+1093,2023-08-14,David,6,Food,235.12,677.5,Returning,0.16,Credit Card,Online,4065.0,3414.6,1410.72,2003.88,Connacht,Connacht-David
+1046,2023-02-22,Alice,46,Clothing,2551.56,2841.68,New,0.09,Bank Transfer,Retail,130717.28,118952.72,117371.76,1580.96,Munster,Munster-Alice
+1053,2023-12-21,Bob,44,Furniture,2045.0,2217.51,Returning,0.08,Credit Card,Online,97570.44,89764.8,89980.0,-215.2,Ulster,Ulster-Bob
+1095,2023-12-08,Eve,4,Clothing,3191.05,3555.35,New,0.28,Credit Card,Online,14221.4,10239.41,12764.2,-2524.79,Leinster,Leinster-Eve
+1099,2023-12-30,Bob,29,Electronics,3124.87,3383.67,New,0.05,Credit Card,Retail,98126.43000000001,93220.11,90621.23,2598.88,Connacht,Connacht-Bob
+1060,2023-10-07,Alice,23,Electronics,647.7,902.26,New,0.17,Bank Transfer,Online,20751.98,17224.14,14897.1,2327.04,Munster,Munster-Alice
+1097,2023-03-22,Eve,6,Electronics,4885.98,4949.95,Returning,0.17,Bank Transfer,Online,29699.699999999997,24650.75,29315.879999999997,-4665.13,Ulster,Ulster-Eve
+1063,2023-07-21,Bob,32,Electronics,975.31,1176.17,New,0.22,Bank Transfer,Retail,37637.44,29357.2,31209.92,-1852.72,Leinster,Leinster-Bob
+1085,2023-06-07,Charlie,42,Clothing,2254.11,2382.23,Returning,0.15,Credit Card,Retail,100053.66,85045.61,94672.62000000001,-9627.01,Leinster,Leinster-Charlie
+1032,2023-04-30,Alice,18,Electronics,2466.18,2483.87,Returning,0.08,Cash,Online,44709.659999999996,41132.89,44391.24,-3258.35,Connacht,Connacht-Alice
+1087,2023-02-28,Alice,15,Furniture,4074.66,4261.11,Returning,0.05,Credit Card,Retail,63916.649999999994,60720.82,61119.899999999994,-399.08,Connacht,Connacht-Alice
+1033,2023-08-03,Alice,40,Food,541.19,595.2,Returning,0.19,Credit Card,Online,23808.0,19284.48,21647.600000000002,-2363.12,Connacht,Connacht-Alice
+1067,2023-05-08,Charlie,32,Food,2171.79,2307.64,Returning,0.22,Bank Transfer,Online,73844.48,57598.69,69497.28,-11898.59,Ulster,Ulster-Charlie
+1018,2023-08-12,Charlie,9,Electronics,3161.09,3216.42,New,0.17,Bank Transfer,Online,28947.78,24026.66,28449.81,-4423.15,Ulster,Ulster-Charlie
+1025,2023-07-28,David,37,Electronics,1115.02,1174.48,New,0.22,Credit Card,Online,43455.76,33895.49,41255.74,-7360.25,Connacht,Connacht-David
+1095,2023-04-25,Bob,10,Electronics,3155.97,3263.49,Returning,0.04,Credit Card,Online,32634.899999999998,31329.5,31559.699999999997,-230.2,Munster,Munster-Bob
+1054,2023-07-28,David,20,Clothing,4622.14,5122.07,New,0.26,Cash,Retail,102441.4,75806.64,92442.8,-16636.16,Leinster,Leinster-David
+1058,2023-01-14,Bob,6,Food,4987.71,4998.78,Returning,0.17,Cash,Retail,29992.68,24893.92,29926.260000000002,-5032.34,Leinster,Leinster-Bob
+1067,2023-01-09,Charlie,48,Electronics,210.63,533.58,New,0.04,Bank Transfer,Online,25611.840000000004,24587.37,10110.24,14477.13,Ulster,Ulster-Charlie
+1046,2023-02-09,Charlie,3,Furniture,1216.16,1295.37,New,0.14,Cash,Retail,3886.1099999999997,3342.05,3648.4800000000005,-306.43,Leinster,Leinster-Charlie
+1024,2023-08-25,David,42,Electronics,1586.02,2047.13,New,0.25,Cash,Retail,85979.46,64484.6,66612.84,-2128.24,Munster,Munster-David
+1032,2023-10-08,Eve,11,Food,2025.67,2081.55,New,0.27,Bank Transfer,Online,22897.050000000003,16714.85,22282.370000000003,-5567.52,Leinster,Leinster-Eve
+1047,2023-12-25,David,43,Electronics,1249.17,1727.15,New,0.08,Cash,Retail,74267.45,68326.05,53714.310000000005,14611.74,Ulster,Ulster-David
+1086,2023-07-20,Bob,17,Food,1057.27,1366.62,New,0.21,Credit Card,Retail,23232.539999999997,18353.71,17973.59,380.12,Ulster,Ulster-Bob
+1023,2023-09-03,David,32,Electronics,4775.04,4785.66,New,0.03,Cash,Online,153141.12,148546.89,152801.28,-4254.39,Munster,Munster-David
+1066,2023-10-05,Alice,4,Furniture,4596.68,5044.74,New,0.01,Bank Transfer,Online,20178.96,19977.17,18386.72,1590.45,Munster,Munster-Alice
+1027,2023-08-23,Bob,4,Electronics,282.61,548.25,New,0.17,Credit Card,Online,2193.0,1820.19,1130.44,689.75,Leinster,Leinster-Bob
+1002,2023-01-04,Bob,17,Furniture,1727.12,1865.83,New,0.21,Cash,Online,31719.11,25058.1,29361.039999999997,-4302.94,Leinster,Leinster-Bob
+1090,2023-06-03,Eve,41,Furniture,2055.49,2441.46,New,0.24,Credit Card,Online,100099.86,76075.89,84275.09,-8199.2,Ulster,Ulster-Eve
+1017,2023-01-29,Charlie,19,Electronics,1233.12,1697.19,New,0.1,Credit Card,Online,32246.61,29021.95,23429.28,5592.67,Munster,Munster-Charlie
+1033,2023-04-19,Bob,5,Furniture,3162.92,3409.93,New,0.0,Cash,Online,17049.649999999998,17049.65,15814.6,1235.05,Munster,Munster-Bob
+1009,2023-04-08,Charlie,32,Clothing,3219.88,3384.5,Returning,0.14,Cash,Retail,108304.0,93141.44,103036.16,-9894.72,Munster,Munster-Charlie
+1043,2023-08-03,David,22,Electronics,4260.0,4656.58,New,0.0,Bank Transfer,Online,102444.76,102444.76,93720.0,8724.76,Leinster,Leinster-David
+1048,2023-10-20,Alice,6,Electronics,3717.3,4061.37,New,0.03,Bank Transfer,Retail,24368.22,23637.17,22303.800000000003,1333.37,Munster,Munster-Alice
+1039,2023-03-16,Eve,35,Furniture,2735.74,3181.23,New,0.1,Credit Card,Retail,111343.05,100208.74,95750.9,4457.84,Ulster,Ulster-Eve
+1093,2023-11-22,Charlie,22,Furniture,3285.25,3634.58,New,0.13,Bank Transfer,Online,79960.76,69565.86,72275.5,-2709.64,Ulster,Ulster-Charlie
+1042,2023-05-26,Bob,1,Electronics,1406.24,1535.57,New,0.08,Credit Card,Retail,1535.57,1412.72,1406.24,6.48,Leinster,Leinster-Bob
+1026,2023-05-08,Charlie,20,Clothing,2985.63,3452.14,New,0.17,Credit Card,Retail,69042.8,57305.52,59712.600000000006,-2407.08,Connacht,Connacht-Charlie
+1099,2023-12-07,Bob,22,Furniture,2471.67,2533.04,Returning,0.02,Bank Transfer,Retail,55726.88,54612.34,54376.740000000005,235.6,Leinster,Leinster-Bob
+1050,2023-02-11,Charlie,48,Furniture,710.06,851.35,Returning,0.04,Bank Transfer,Online,40864.8,39230.21,34082.88,5147.33,Connacht,Connacht-Charlie
+1025,2023-12-22,Bob,11,Food,1250.59,1515.49,Returning,0.21,Bank Transfer,Retail,16670.39,13169.61,13756.49,-586.88,Munster,Munster-Bob
+1024,2023-02-10,David,13,Clothing,1493.88,1781.09,New,0.04,Cash,Retail,23154.17,22228.0,19420.440000000002,2807.56,Leinster,Leinster-David
+1013,2023-02-03,Bob,42,Clothing,4625.33,4642.83,New,0.19,Credit Card,Online,194998.86,157949.08,194263.86,-36314.78,Ulster,Ulster-Bob
+1060,2023-01-17,Bob,3,Electronics,1190.41,1582.89,New,0.02,Credit Card,Retail,4748.67,4653.7,3571.2300000000005,1082.47,Munster,Munster-Bob
+1007,2023-06-14,Alice,9,Clothing,1481.76,1668.95,Returning,0.12,Credit Card,Retail,15020.550000000001,13218.08,13335.84,-117.76,Ulster,Ulster-Alice
+1057,2023-06-02,Bob,12,Electronics,1878.3,2087.45,New,0.05,Bank Transfer,Retail,25049.399999999998,23796.93,22539.6,1257.33,Munster,Munster-Bob
+1036,2023-03-17,Alice,23,Food,3335.53,3742.12,New,0.03,Bank Transfer,Retail,86068.76,83486.7,76717.19,6769.51,Leinster,Leinster-Alice
+1045,2023-03-28,Eve,14,Clothing,635.28,831.13,Returning,0.17,Bank Transfer,Retail,11635.82,9657.73,8893.92,763.81,Connacht,Connacht-Eve
+1020,2023-04-27,Alice,33,Furniture,4772.03,4805.17,Returning,0.28,Bank Transfer,Online,158570.61000000002,114170.84,157476.99,-43306.15,Munster,Munster-Alice
+1065,2023-12-28,David,18,Food,4334.58,4431.04,New,0.02,Bank Transfer,Retail,79758.72,78163.55,78022.44,141.11,Connacht,Connacht-David
+1008,2023-12-08,Alice,49,Electronics,2907.22,3385.61,New,0.13,Cash,Online,165894.89,144328.55,142453.78,1874.77,Munster,Munster-Alice
+1016,2023-01-27,Eve,41,Food,3386.49,3430.99,New,0.21,Bank Transfer,Retail,140670.59,111129.77,138846.09,-27716.32,Ulster,Ulster-Eve
+1014,2023-11-09,David,9,Electronics,132.47,316.39,New,0.14,Credit Card,Online,2847.5099999999998,2448.86,1192.23,1256.63,Ulster,Ulster-David
+1076,2023-10-14,Charlie,23,Food,1727.78,1984.34,Returning,0.24,Bank Transfer,Online,45639.82,34686.26,39738.94,-5052.68,Munster,Munster-Charlie
+1087,2023-05-14,Charlie,10,Electronics,3988.52,4240.23,New,0.05,Credit Card,Online,42402.299999999996,40282.18,39885.2,396.98,Connacht,Connacht-Charlie
+1015,2023-08-07,Alice,19,Clothing,433.54,445.48,New,0.29,Bank Transfer,Retail,8464.12,6009.53,8237.26,-2227.73,Leinster,Leinster-Alice
+1092,2023-06-17,Alice,47,Furniture,1447.45,1703.02,Returning,0.12,Bank Transfer,Retail,80041.94,70436.91,68030.15000000001,2406.76,Leinster,Leinster-Alice
+1098,2023-04-08,Eve,5,Electronics,2947.22,3145.27,New,0.1,Credit Card,Retail,15726.35,14153.72,14736.099999999999,-582.38,Ulster,Ulster-Eve
+1066,2023-09-25,Eve,47,Food,1319.24,1805.56,New,0.26,Credit Card,Retail,84861.31999999999,62797.38,62004.28,793.1,Leinster,Leinster-Eve
+1032,2023-08-25,Bob,23,Electronics,4673.19,4761.18,Returning,0.17,Credit Card,Retail,109507.14000000001,90890.93,107483.37,-16592.44,Ulster,Ulster-Bob
+1087,2023-11-05,Eve,30,Electronics,698.74,882.28,Returning,0.15,Credit Card,Online,26468.399999999998,22498.14,20962.2,1535.94,Leinster,Leinster-Eve
+1063,2023-06-22,Bob,25,Electronics,3997.1,4212.65,New,0.22,Cash,Online,105316.24999999999,82146.67,99927.5,-17780.83,Munster,Munster-Bob
+1086,2023-07-09,David,28,Food,2564.35,2765.79,Returning,0.17,Credit Card,Online,77442.12,64276.96,71801.8,-7524.84,Ulster,Ulster-David
+1051,2023-05-02,Alice,34,Furniture,3764.14,4100.4,Returning,0.05,Bank Transfer,Retail,139413.59999999998,132442.92,127980.76,4462.16,Ulster,Ulster-Alice
+1025,2023-02-15,David,45,Clothing,1588.04,1703.64,New,0.2,Bank Transfer,Retail,76663.8,61331.04,71461.8,-10130.76,Munster,Munster-David
+1058,2023-03-05,Eve,48,Furniture,2596.72,2715.05,Returning,0.04,Cash,Online,130322.40000000001,125109.5,124642.56,466.94,Ulster,Ulster-Eve
+1063,2023-05-10,David,47,Electronics,4291.33,4658.64,New,0.24,Credit Card,Retail,218956.08000000002,166406.62,201692.51,-35285.89,Leinster,Leinster-David
+1062,2023-11-06,David,25,Food,2361.05,2616.19,New,0.3,Bank Transfer,Retail,65404.75,45783.32,59026.25000000001,-13242.93,Leinster,Leinster-David
+1022,2023-12-29,David,10,Furniture,1830.61,2044.04,New,0.11,Cash,Online,20440.4,18191.96,18306.1,-114.14,Ulster,Ulster-David
+1058,2023-07-12,Eve,14,Electronics,2703.97,2796.88,New,0.13,Bank Transfer,Online,39156.32,34066.0,37855.579999999994,-3789.58,Leinster,Leinster-Eve
+1058,2023-11-03,David,42,Clothing,3600.95,3702.84,Returning,0.01,Cash,Retail,155519.28,153964.09,151239.9,2724.19,Connacht,Connacht-David
+1086,2023-06-30,Bob,46,Clothing,2245.64,2260.81,New,0.0,Cash,Retail,103997.26,103997.26,103299.43999999999,697.82,Ulster,Ulster-Bob
+1049,2023-10-19,Eve,30,Clothing,4697.44,4752.24,New,0.28,Credit Card,Online,142567.19999999998,102648.38,140923.19999999998,-38274.82,Munster,Munster-Eve
+1052,2023-10-09,David,41,Electronics,1509.98,1792.83,New,0.04,Cash,Retail,73506.03,70565.79,61909.18,8656.61,Connacht,Connacht-David
+1042,2023-01-29,Eve,25,Food,2403.54,2850.56,New,0.13,Bank Transfer,Online,71264.0,61999.68,60088.5,1911.18,Ulster,Ulster-Eve
+1070,2023-05-29,Charlie,14,Furniture,3796.79,3947.5,Returning,0.24,Bank Transfer,Online,55265.0,42001.4,53155.06,-11153.66,Munster,Munster-Charlie
+1015,2023-09-24,Bob,35,Clothing,3461.15,3631.75,Returning,0.27,Credit Card,Online,127111.25,92791.21,121140.25,-28349.04,Leinster,Leinster-Bob
+1054,2023-10-23,David,48,Electronics,4325.02,4391.67,Returning,0.16,Credit Card,Retail,210800.16,177072.13,207600.96000000002,-30528.83,Munster,Munster-David
+1060,2023-01-11,Charlie,34,Electronics,4984.21,5184.64,New,0.17,Cash,Online,176277.76,146310.54,169463.14,-23152.6,Connacht,Connacht-Charlie
+1097,2023-06-13,Charlie,10,Furniture,2162.95,2191.19,Returning,0.2,Credit Card,Online,21911.9,17529.52,21629.5,-4099.98,Leinster,Leinster-Charlie
+1008,2023-04-23,Eve,35,Clothing,600.2,1059.82,Returning,0.29,Bank Transfer,Retail,37093.7,26336.53,21007.0,5329.53,Ulster,Ulster-Eve
+1053,2023-07-06,Charlie,11,Electronics,200.56,540.38,New,0.18,Bank Transfer,Online,5944.18,4874.23,2206.16,2668.07,Leinster,Leinster-Charlie
+1060,2023-10-22,Bob,11,Furniture,3648.04,4143.51,Returning,0.17,Credit Card,Retail,45578.61,37830.25,40128.44,-2298.19,Ulster,Ulster-Bob
+1005,2023-08-20,Bob,21,Food,4376.37,4818.95,New,0.0,Credit Card,Retail,101197.95,101197.95,91903.77,9294.18,Ulster,Ulster-Bob
+1068,2023-08-15,Alice,21,Food,1142.53,1384.3,Returning,0.02,Credit Card,Retail,29070.3,28488.89,23993.13,4495.76,Munster,Munster-Alice
+1006,2023-11-06,Bob,22,Food,834.32,1098.97,Returning,0.17,Cash,Online,24177.34,20067.19,18355.04,1712.15,Munster,Munster-Bob
+1096,2023-04-08,Charlie,45,Clothing,357.92,461.3,Returning,0.28,Cash,Online,20758.5,14946.12,16106.400000000001,-1160.28,Munster,Munster-Charlie
+1094,2023-02-24,Bob,7,Furniture,4122.38,4358.78,Returning,0.26,Bank Transfer,Retail,30511.46,22578.48,28856.66,-6278.18,Connacht,Connacht-Bob
+1047,2023-04-21,Eve,17,Furniture,1591.34,2043.82,New,0.29,Cash,Retail,34744.94,24668.91,27052.78,-2383.87,Connacht,Connacht-Eve
+1099,2023-06-01,Alice,2,Electronics,2038.4,2073.32,New,0.16,Cash,Retail,4146.64,3483.18,4076.8,-593.62,Munster,Munster-Alice
+1055,2023-09-03,Charlie,12,Electronics,2538.61,2971.75,Returning,0.24,Cash,Online,35661.0,27102.36,30463.32,-3360.96,Connacht,Connacht-Charlie
+1040,2023-03-10,Alice,42,Electronics,4205.29,4382.35,New,0.25,Cash,Retail,184058.7,138044.03,176622.18,-38578.15,Leinster,Leinster-Alice
+1052,2023-11-08,Charlie,18,Furniture,3271.62,3722.38,Returning,0.19,Bank Transfer,Retail,67002.84,54272.3,58889.159999999996,-4616.86,Leinster,Leinster-Charlie
+1016,2023-10-16,Eve,11,Electronics,3094.57,3565.6,Returning,0.1,Credit Card,Retail,39221.6,35299.44,34040.270000000004,1259.17,Connacht,Connacht-Eve
+1013,2023-09-07,Alice,16,Furniture,919.58,1258.3,Returning,0.14,Bank Transfer,Online,20132.8,17314.21,14713.28,2600.93,Connacht,Connacht-Alice
+1030,2023-02-05,David,49,Furniture,2590.29,2925.86,Returning,0.26,Cash,Retail,143367.14,106091.68,126924.20999999999,-20832.53,Leinster,Leinster-David
+1019,2023-08-27,Charlie,18,Food,3591.14,3822.99,Returning,0.09,Credit Card,Online,68813.81999999999,62620.58,64640.52,-2019.94,Ulster,Ulster-Charlie
+1017,2023-05-28,David,35,Electronics,4867.64,5287.05,Returning,0.28,Credit Card,Online,185046.75,133233.66,170367.40000000002,-37133.74,Leinster,Leinster-David
+1063,2023-08-15,Alice,26,Food,1046.96,1528.15,New,0.07,Credit Card,Retail,39731.9,36950.67,27220.96,9729.71,Leinster,Leinster-Alice
+1019,2023-09-01,David,16,Clothing,97.24,487.03,New,0.22,Bank Transfer,Retail,7792.48,6078.13,1555.84,4522.29,Connacht,Connacht-David
+1092,2023-12-03,David,6,Clothing,422.74,737.49,Returning,0.19,Credit Card,Retail,4424.9400000000005,3584.2,2536.44,1047.76,Leinster,Leinster-David
+1058,2023-12-31,Alice,44,Clothing,1910.47,2217.8,New,0.22,Bank Transfer,Online,97583.20000000001,76114.9,84060.68000000001,-7945.78,Connacht,Connacht-Alice
+1055,2023-07-20,Eve,43,Furniture,4111.7,4537.94,Returning,0.13,Bank Transfer,Online,195131.41999999998,169764.34,176803.1,-7038.76,Connacht,Connacht-Eve
+1090,2023-06-03,David,47,Furniture,85.35,360.54,New,0.28,Cash,Online,16945.38,12200.67,4011.45,8189.22,Munster,Munster-David
+1090,2023-03-14,David,47,Furniture,2310.82,2714.71,New,0.19,Cash,Retail,127591.37,103349.01,108608.54000000001,-5259.53,Leinster,Leinster-David
+1062,2023-07-20,Eve,48,Electronics,1679.69,1939.04,New,0.09,Credit Card,Online,93073.92,84697.27,80625.12,4072.15,Ulster,Ulster-Eve
+1023,2023-10-23,David,42,Food,309.78,350.38,Returning,0.19,Credit Card,Retail,14715.96,11919.93,13010.759999999998,-1090.83,Munster,Munster-David
+1009,2023-01-17,David,12,Furniture,2278.67,2476.8,New,0.09,Cash,Retail,29721.600000000002,27046.66,27344.04,-297.38,Connacht,Connacht-David
+1012,2023-05-09,David,13,Food,1311.01,1538.79,Returning,0.09,Bank Transfer,Retail,20004.27,18203.89,17043.13,1160.76,Connacht,Connacht-David
+1001,2023-08-05,Bob,4,Food,1791.83,1871.22,Returning,0.12,Bank Transfer,Online,7484.88,6586.69,7167.32,-580.63,Ulster,Ulster-Bob
+1058,2023-03-02,Eve,39,Food,3542.8,3603.02,Returning,0.26,Cash,Online,140517.78,103983.16,138169.2,-34186.04,Connacht,Connacht-Eve
+1001,2023-04-14,David,2,Electronics,2631.68,2904.06,New,0.15,Bank Transfer,Online,5808.12,4936.9,5263.36,-326.46,Leinster,Leinster-David
+1034,2023-02-11,Eve,26,Electronics,667.0,718.72,New,0.2,Cash,Retail,18686.72,14949.38,17342.0,-2392.62,Munster,Munster-Eve
+1096,2023-01-25,Charlie,27,Clothing,4809.0,4967.44,New,0.12,Cash,Online,134120.87999999998,118026.37,129843.0,-11816.63,Connacht,Connacht-Charlie
+1048,2023-02-08,Charlie,27,Clothing,3197.76,3572.61,Returning,0.08,Credit Card,Online,96460.47,88743.63,86339.52,2404.11,Connacht,Connacht-Charlie
+1089,2023-10-18,David,15,Food,3841.05,4323.62,Returning,0.29,Credit Card,Retail,64854.299999999996,46046.55,57615.75,-11569.2,Ulster,Ulster-David
+1001,2023-05-11,Eve,8,Clothing,442.11,803.87,New,0.18,Cash,Retail,6430.96,5273.39,3536.88,1736.51,Leinster,Leinster-Eve
+1016,2023-08-17,Eve,7,Food,282.94,779.33,Returning,0.28,Credit Card,Online,5455.31,3927.82,1980.58,1947.24,Connacht,Connacht-Eve
+1061,2023-04-18,Eve,47,Electronics,146.27,498.46,New,0.06,Cash,Retail,23427.62,22021.96,6874.6900000000005,15147.27,Ulster,Ulster-Eve
+1064,2023-06-21,Bob,46,Electronics,984.53,1138.49,New,0.04,Bank Transfer,Online,52370.54,50275.72,45288.38,4987.34,Connacht,Connacht-Bob
+1063,2023-04-12,Charlie,40,Electronics,2101.32,2440.63,New,0.26,Bank Transfer,Retail,97625.20000000001,72242.65,84052.8,-11810.15,Ulster,Ulster-Charlie
+1069,2023-12-20,Eve,12,Furniture,4682.34,5036.4,New,0.2,Bank Transfer,Retail,60436.799999999996,48349.44,56188.08,-7838.64,Ulster,Ulster-Eve
+1022,2023-01-12,Eve,13,Food,2312.45,2504.6,Returning,0.06,Bank Transfer,Online,32559.8,30606.21,30061.85,544.36,Leinster,Leinster-Eve
+1093,2023-10-02,Bob,43,Electronics,1486.76,1505.44,New,0.08,Cash,Retail,64733.920000000006,59555.21,63930.68,-4375.47,Connacht,Connacht-Bob
+1067,2023-04-11,Bob,17,Food,2831.58,3186.15,New,0.24,Bank Transfer,Retail,54164.55,41165.06,48136.86,-6971.8,Leinster,Leinster-Bob
+1076,2023-02-13,Eve,17,Clothing,604.08,624.71,New,0.14,Bank Transfer,Retail,10620.07,9133.26,10269.36,-1136.1,Ulster,Ulster-Eve
+1026,2023-11-01,Alice,36,Clothing,3067.05,3386.33,New,0.2,Bank Transfer,Online,121907.88,97526.3,110413.8,-12887.5,Munster,Munster-Alice
+1016,2023-01-17,Eve,21,Electronics,2863.74,2953.91,New,0.1,Bank Transfer,Retail,62032.11,55828.9,60138.53999999999,-4309.64,Connacht,Connacht-Eve
+1051,2023-11-26,Eve,8,Food,3970.37,4257.52,New,0.11,Cash,Retail,34060.16,30313.54,31762.96,-1449.42,Munster,Munster-Eve
+1086,2023-02-26,Bob,5,Electronics,4934.1,5191.02,New,0.3,Bank Transfer,Online,25955.100000000002,18168.57,24670.5,-6501.93,Connacht,Connacht-Bob
+1057,2023-11-07,Bob,26,Clothing,1291.82,1308.44,Returning,0.07,Credit Card,Online,34019.44,31638.08,33587.32,-1949.24,Leinster,Leinster-Bob
+1029,2023-10-30,Eve,16,Electronics,2572.8,2760.6,Returning,0.15,Credit Card,Retail,44169.6,37544.16,41164.8,-3620.64,Leinster,Leinster-Eve
+1078,2023-01-12,Eve,36,Food,4548.88,4853.41,Returning,0.25,Credit Card,Retail,174722.76,131042.07,163759.68,-32717.61,Leinster,Leinster-Eve
+1092,2023-11-14,Eve,28,Clothing,3936.69,4362.51,Returning,0.07,Credit Card,Retail,122150.28,113599.76,110227.32,3372.44,Leinster,Leinster-Eve
+1069,2023-03-21,Bob,29,Furniture,2462.66,2908.09,New,0.12,Credit Card,Online,84334.61,74214.46,71417.14,2797.32,Leinster,Leinster-Bob
+1047,2023-08-04,Eve,47,Clothing,4729.59,4976.68,Returning,0.18,Credit Card,Retail,233903.96000000002,191801.25,222290.73,-30489.48,Munster,Munster-Eve
+1094,2023-12-05,Eve,12,Furniture,333.32,700.25,Returning,0.14,Cash,Online,8403.0,7226.58,3999.84,3226.74,Leinster,Leinster-Eve
+1062,2023-09-21,David,37,Electronics,4658.44,4823.5,Returning,0.14,Credit Card,Online,178469.5,153483.77,172362.28,-18878.51,Ulster,Ulster-David
+1069,2023-05-29,Alice,30,Electronics,300.01,477.68,New,0.11,Bank Transfer,Retail,14330.4,12754.06,9000.3,3753.76,Ulster,Ulster-Alice
+1076,2023-03-22,Charlie,23,Food,2759.16,2864.45,Returning,0.18,Credit Card,Retail,65882.34999999999,54023.53,63460.67999999999,-9437.15,Munster,Munster-Charlie
+1016,2023-08-03,Alice,16,Furniture,4457.68,4743.03,Returning,0.19,Cash,Online,75888.48,61469.67,71322.88,-9853.21,Connacht,Connacht-Alice
+1090,2023-07-17,David,14,Electronics,1350.47,1514.61,New,0.2,Credit Card,Retail,21204.539999999997,16963.63,18906.58,-1942.95,Ulster,Ulster-David
+1090,2023-07-19,Charlie,10,Furniture,2387.63,2438.97,Returning,0.02,Bank Transfer,Retail,24389.699999999997,23901.91,23876.300000000003,25.61,Connacht,Connacht-Charlie
+1048,2023-01-25,Eve,7,Electronics,1655.43,2001.08,New,0.19,Bank Transfer,Online,14007.56,11346.12,11588.01,-241.89,Munster,Munster-Eve
+1085,2023-03-30,David,45,Clothing,4763.11,5119.91,Returning,0.29,Cash,Retail,230395.94999999998,163581.12,214339.94999999998,-50758.83,Connacht,Connacht-David
+1039,2023-09-25,Eve,37,Electronics,4127.05,4313.45,New,0.16,Cash,Online,159597.65,134062.03,152700.85,-18638.82,Connacht,Connacht-Eve
+1100,2023-05-23,Bob,29,Food,3559.56,3607.15,Returning,0.21,Cash,Retail,104607.35,82639.81,103227.24,-20587.43,Connacht,Connacht-Bob
+1033,2023-02-28,David,3,Clothing,2958.75,3177.64,Returning,0.17,Cash,Online,9532.92,7912.32,8876.25,-963.93,Connacht,Connacht-David
+1094,2023-12-31,Bob,15,Food,4111.93,4338.67,Returning,0.26,Credit Card,Online,65080.05,48159.24,61678.950000000004,-13519.71,Munster,Munster-Bob
+1023,2023-01-26,David,36,Clothing,1991.72,2329.37,New,0.28,Credit Card,Retail,83857.31999999999,60377.27,71701.92,-11324.65,Ulster,Ulster-David
+1010,2023-02-16,David,47,Furniture,2265.38,2429.93,Returning,0.06,Bank Transfer,Online,114206.70999999999,107354.31,106472.86,881.45,Leinster,Leinster-David
+1069,2023-10-15,Bob,46,Food,3663.51,4007.98,New,0.13,Cash,Online,184367.08,160399.36,168521.46000000002,-8122.1,Connacht,Connacht-Bob
+1100,2023-09-23,Charlie,19,Electronics,1820.89,2257.92,New,0.12,Cash,Retail,42900.48,37752.42,34596.91,3155.51,Ulster,Ulster-Charlie
+1034,2023-01-16,Alice,13,Furniture,366.31,492.68,New,0.12,Credit Card,Retail,6404.84,5636.26,4762.03,874.23,Ulster,Ulster-Alice
+1052,2023-07-18,Eve,42,Electronics,417.96,907.63,New,0.04,Cash,Retail,38120.46,36595.64,17554.32,19041.32,Munster,Munster-Eve
+1095,2023-10-09,David,21,Clothing,621.05,820.37,Returning,0.24,Bank Transfer,Online,17227.77,13093.11,13042.05,51.06,Ulster,Ulster-David
+1010,2023-03-27,Eve,37,Clothing,4354.92,4495.88,Returning,0.01,Bank Transfer,Online,166347.56,164684.08,161132.04,3552.04,Munster,Munster-Eve
+1019,2023-09-07,Bob,27,Electronics,2387.52,2604.06,Returning,0.16,Cash,Online,70309.62,59060.08,64463.04,-5402.96,Connacht,Connacht-Bob
+1058,2023-09-27,Eve,29,Electronics,3578.77,3635.02,New,0.2,Bank Transfer,Retail,105415.58,84332.46,103784.33,-19451.87,Connacht,Connacht-Eve
+1096,2023-12-01,Bob,20,Furniture,1994.9,2066.5,Returning,0.06,Bank Transfer,Online,41330.0,38850.2,39898.0,-1047.8,Leinster,Leinster-Bob
+1001,2023-04-27,Eve,25,Electronics,1330.62,1543.69,New,0.27,Credit Card,Online,38592.25,28172.34,33265.5,-5093.16,Leinster,Leinster-Eve
+1069,2023-01-07,Alice,6,Food,1768.6,2152.2,New,0.25,Bank Transfer,Retail,12913.199999999999,9684.9,10611.599999999999,-926.7,Leinster,Leinster-Alice
+1004,2023-05-17,Alice,36,Food,3981.2,4432.35,New,0.14,Cash,Online,159564.6,137225.56,143323.19999999998,-6097.64,Ulster,Ulster-Alice
+1016,2023-06-25,Alice,2,Electronics,3144.82,3480.58,Returning,0.12,Cash,Retail,6961.16,6125.82,6289.64,-163.82,Connacht,Connacht-Alice
+1024,2023-11-24,Alice,22,Food,4691.32,4752.88,Returning,0.07,Bank Transfer,Retail,104563.36,97243.92,103209.04,-5965.12,Munster,Munster-Alice
+1080,2023-11-11,Alice,32,Electronics,3414.54,3753.83,New,0.22,Cash,Retail,120122.56,93695.6,109265.28,-15569.68,Leinster,Leinster-Alice
+1002,2023-08-03,Alice,16,Furniture,2872.4,3193.76,Returning,0.04,Credit Card,Online,51100.16,49056.15,45958.4,3097.75,Munster,Munster-Alice
+1092,2023-03-23,Bob,18,Food,3070.47,3475.29,Returning,0.2,Bank Transfer,Online,62555.22,50044.18,55268.46,-5224.28,Munster,Munster-Bob
+1032,2023-08-11,David,5,Food,4714.74,5129.11,New,0.25,Bank Transfer,Online,25645.55,19234.16,23573.699999999997,-4339.54,Leinster,Leinster-David
+1091,2023-04-13,Eve,36,Electronics,3951.59,4387.01,New,0.07,Bank Transfer,Retail,157932.36000000002,146877.09,142257.24,4619.85,Connacht,Connacht-Eve
+1084,2023-09-30,Alice,30,Food,169.0,381.92,Returning,0.26,Cash,Retail,11457.6,8478.62,5070.0,3408.62,Leinster,Leinster-Alice
+1024,2023-01-14,Bob,45,Clothing,2693.99,3045.94,New,0.01,Cash,Retail,137067.3,135696.63,121229.54999999999,14467.08,Munster,Munster-Bob
+1012,2023-06-08,Bob,19,Furniture,3457.28,3598.72,New,0.27,Bank Transfer,Online,68375.68,49914.25,65688.32,-15774.07,Leinster,Leinster-Bob
+1050,2023-06-01,Bob,23,Furniture,3756.06,4255.73,Returning,0.04,Cash,Online,97881.79,93966.52,86389.38,7577.14,Munster,Munster-Bob
+1035,2023-04-18,David,34,Food,1105.05,1200.96,Returning,0.19,Cash,Online,40832.64,33074.44,37571.7,-4497.26,Munster,Munster-David
+1033,2023-07-07,Eve,13,Food,4342.53,4357.49,New,0.08,Bank Transfer,Online,56647.369999999995,52115.58,56452.89,-4337.31,Leinster,Leinster-Eve
+1033,2023-10-28,David,43,Clothing,4781.42,4864.34,Returning,0.25,Bank Transfer,Online,209166.62,156874.96,205601.06,-48726.1,Ulster,Ulster-David
+1061,2023-04-08,Charlie,29,Clothing,1221.74,1611.92,New,0.15,Cash,Retail,46745.68,39733.83,35430.46,4303.37,Leinster,Leinster-Charlie
+1051,2023-05-11,Bob,36,Food,4418.95,4647.87,New,0.04,Bank Transfer,Online,167323.32,160630.39,159082.19999999998,1548.19,Ulster,Ulster-Bob
+1043,2023-10-20,Charlie,22,Food,530.04,759.32,Returning,0.17,Bank Transfer,Retail,16705.04,13865.18,11660.88,2204.3,Munster,Munster-Charlie
+1012,2023-06-20,Alice,47,Clothing,325.75,803.71,New,0.12,Bank Transfer,Retail,37774.37,33241.45,15310.25,17931.2,Munster,Munster-Alice
+1067,2023-07-02,Alice,36,Electronics,689.66,1150.28,New,0.2,Bank Transfer,Online,41410.08,33128.06,24827.76,8300.3,Ulster,Ulster-Alice
+1065,2023-12-30,David,9,Clothing,335.82,498.31,New,0.26,Cash,Retail,4484.79,3318.74,3022.38,296.36,Munster,Munster-David
+1033,2023-02-08,Eve,39,Electronics,4232.81,4345.25,Returning,0.12,Bank Transfer,Online,169464.75,149128.98,165079.59000000003,-15950.61,Ulster,Ulster-Eve
+1040,2023-01-15,Charlie,19,Furniture,342.3,768.06,Returning,0.09,Credit Card,Online,14593.14,13279.76,6503.7,6776.06,Ulster,Ulster-Charlie
+1074,2023-01-04,Eve,38,Furniture,1394.74,1848.69,Returning,0.0,Bank Transfer,Retail,70250.22,70250.22,53000.12,17250.1,Munster,Munster-Eve
+1043,2023-12-15,David,6,Clothing,563.59,838.97,New,0.17,Credit Card,Online,5033.82,4178.07,3381.54,796.53,Connacht,Connacht-David
+1044,2023-07-29,Alice,47,Electronics,1512.34,1830.76,New,0.12,Bank Transfer,Online,86045.72,75720.23,71079.98,4640.25,Ulster,Ulster-Alice
+1029,2023-06-10,Eve,15,Clothing,498.27,634.16,Returning,0.11,Credit Card,Retail,9512.4,8466.04,7474.049999999999,991.99,Leinster,Leinster-Eve
+1013,2023-01-16,Eve,20,Clothing,3356.62,3759.01,Returning,0.05,Credit Card,Retail,75180.20000000001,71421.19,67132.4,4288.79,Leinster,Leinster-Eve
+1012,2023-04-18,Alice,9,Electronics,709.97,1029.71,Returning,0.13,Bank Transfer,Retail,9267.39,8062.63,6389.7300000000005,1672.9,Munster,Munster-Alice
+1095,2023-11-07,Charlie,32,Clothing,4266.64,4523.36,New,0.3,Bank Transfer,Retail,144747.52,101323.26,136532.48,-35209.22,Connacht,Connacht-Charlie
+1046,2023-08-15,Alice,4,Furniture,4095.1,4134.55,Returning,0.09,Bank Transfer,Retail,16538.2,15049.76,16380.4,-1330.64,Munster,Munster-Alice
+1002,2023-06-19,Eve,18,Food,117.63,576.44,New,0.18,Credit Card,Retail,10375.920000000002,8508.25,2117.34,6390.91,Connacht,Connacht-Eve
+1035,2023-02-03,Charlie,5,Food,4483.85,4795.42,Returning,0.23,Cash,Online,23977.1,18462.37,22419.25,-3956.88,Ulster,Ulster-Charlie
+1087,2023-09-08,Charlie,20,Clothing,193.27,297.69,New,0.22,Cash,Online,5953.8,4643.96,3865.4,778.56,Ulster,Ulster-Charlie
+1081,2023-09-04,Alice,23,Electronics,1236.25,1543.38,New,0.1,Bank Transfer,Online,35497.740000000005,31947.97,28433.75,3514.22,Ulster,Ulster-Alice
+1090,2023-09-26,Eve,11,Electronics,210.33,552.29,Returning,0.18,Cash,Retail,6075.19,4981.66,2313.63,2668.03,Ulster,Ulster-Eve
+1008,2023-05-21,David,37,Furniture,1712.43,1980.06,New,0.26,Cash,Online,73262.22,54214.04,63359.91,-9145.87,Leinster,Leinster-David
+1093,2023-10-01,Eve,22,Electronics,2593.64,2955.51,Returning,0.0,Bank Transfer,Retail,65021.22,65021.22,57060.079999999994,7961.14,Leinster,Leinster-Eve
+1026,2023-04-06,Bob,4,Electronics,3993.39,4288.3,New,0.13,Credit Card,Online,17153.2,14923.28,15973.56,-1050.28,Munster,Munster-Bob
+1074,2023-08-15,David,29,Furniture,1723.01,2197.42,New,0.07,Bank Transfer,Retail,63725.18,59264.42,49967.29,9297.13,Connacht,Connacht-David
+1090,2023-02-08,Charlie,44,Clothing,3542.18,3578.49,Returning,0.12,Cash,Online,157453.56,138559.13,155855.91999999998,-17296.79,Ulster,Ulster-Charlie
+1034,2023-10-29,David,34,Food,978.15,1040.21,New,0.12,Credit Card,Retail,35367.14,31123.08,33257.1,-2134.02,Ulster,Ulster-David
+1007,2023-01-29,Charlie,13,Furniture,3765.46,3860.56,Returning,0.22,Cash,Retail,50187.28,39146.08,48950.98,-9804.9,Connacht,Connacht-Charlie
+1068,2023-11-14,Charlie,42,Clothing,1218.18,1566.36,Returning,0.03,Credit Card,Retail,65787.12,63813.51,51163.560000000005,12649.95,Connacht,Connacht-Charlie
+1058,2023-09-02,David,9,Furniture,760.55,1086.89,Returning,0.15,Cash,Retail,9782.01,8314.71,6844.95,1469.76,Munster,Munster-David
+1075,2023-08-24,Charlie,42,Clothing,967.77,1414.88,New,0.17,Bank Transfer,Online,59424.96000000001,49322.72,40646.34,8676.38,Connacht,Connacht-Charlie
+1029,2023-07-04,Charlie,31,Furniture,951.21,1320.32,New,0.15,Cash,Online,40929.92,34790.43,29487.510000000002,5302.92,Ulster,Ulster-Charlie
+1036,2023-09-29,Bob,7,Clothing,2588.67,2847.76,New,0.22,Cash,Retail,19934.32,15548.77,18120.690000000002,-2571.92,Ulster,Ulster-Bob
+1089,2023-08-24,Eve,4,Furniture,4231.75,4727.75,Returning,0.12,Credit Card,Retail,18911.0,16641.68,16927.0,-285.32,Ulster,Ulster-Eve
+1021,2023-08-27,Eve,19,Clothing,444.05,584.44,Returning,0.28,Cash,Retail,11104.36,7995.14,8436.95,-441.81,Ulster,Ulster-Eve
+1036,2023-09-23,Bob,42,Furniture,3549.43,3967.69,New,0.14,Bank Transfer,Online,166642.98,143312.96,149076.06,-5763.1,Ulster,Ulster-Bob
+1010,2023-12-25,David,30,Food,3289.01,3508.14,New,0.17,Bank Transfer,Retail,105244.2,87352.69,98670.3,-11317.61,Munster,Munster-David
+1073,2023-12-06,Alice,31,Food,4368.97,4696.85,Returning,0.25,Bank Transfer,Retail,145602.35,109201.76,135438.07,-26236.31,Ulster,Ulster-Alice
+1024,2023-03-06,Alice,35,Electronics,1258.53,1624.89,New,0.08,Credit Card,Online,56871.15,52321.46,44048.549999999996,8272.91,Munster,Munster-Alice
+1064,2023-06-26,Alice,21,Clothing,2278.04,2598.58,Returning,0.02,Credit Card,Retail,54570.18,53478.78,47838.84,5639.94,Ulster,Ulster-Alice
+1099,2023-01-03,Bob,31,Furniture,4632.85,4711.7,New,0.21,Cash,Retail,146062.69999999998,115389.53,143618.35,-28228.82,Leinster,Leinster-Bob
+1049,2023-05-22,Bob,19,Clothing,3316.97,3544.02,Returning,0.14,Cash,Online,67336.38,57909.29,63022.42999999999,-5113.14,Leinster,Leinster-Bob
+1099,2023-06-07,Charlie,31,Food,1974.4,2259.5,New,0.27,Cash,Retail,70044.5,51132.48,61206.4,-10073.92,Leinster,Leinster-Charlie
+1036,2023-11-20,Alice,32,Clothing,700.49,1126.52,New,0.29,Credit Card,Retail,36048.64,25594.53,22415.68,3178.85,Leinster,Leinster-Alice
+1082,2023-05-26,David,2,Furniture,1349.3,1576.69,Returning,0.12,Credit Card,Online,3153.38,2774.97,2698.6,76.37,Munster,Munster-David
+1096,2023-10-20,David,10,Clothing,2927.02,3387.21,Returning,0.12,Cash,Retail,33872.1,29807.45,29270.2,537.25,Munster,Munster-David
+1024,2023-06-02,Alice,2,Furniture,3604.93,3830.71,Returning,0.12,Credit Card,Online,7661.42,6742.05,7209.86,-467.81,Connacht,Connacht-Alice
+1023,2023-07-12,Alice,2,Food,665.89,944.79,New,0.1,Credit Card,Retail,1889.58,1700.62,1331.78,368.84,Ulster,Ulster-Alice
+1062,2023-03-14,Alice,24,Food,3018.01,3418.19,Returning,0.23,Bank Transfer,Retail,82036.56,63168.15,72432.24,-9264.09,Leinster,Leinster-Alice
+1096,2023-11-01,Bob,17,Food,2774.24,3069.94,Returning,0.23,Bank Transfer,Retail,52188.98,40185.51,47162.079999999994,-6976.57,Munster,Munster-Bob
+1037,2023-12-10,Bob,32,Electronics,2594.08,3074.59,New,0.14,Cash,Retail,98386.88,84612.72,83010.56,1602.16,Ulster,Ulster-Bob
+1012,2023-05-20,Bob,16,Food,3466.11,3799.67,Returning,0.01,Cash,Retail,60794.72,60186.77,55457.76,4729.01,Ulster,Ulster-Bob
+1055,2023-07-06,Eve,16,Clothing,4195.38,4461.51,Returning,0.09,Bank Transfer,Online,71384.16,64959.59,67126.08,-2166.49,Munster,Munster-Eve
+1013,2023-10-20,David,46,Electronics,1648.8,1670.36,Returning,0.09,Credit Card,Retail,76836.56,69921.27,75844.8,-5923.53,Leinster,Leinster-David
+1023,2023-03-02,David,39,Food,4450.61,4663.34,New,0.24,Cash,Retail,181870.26,138221.4,173573.78999999998,-35352.39,Connacht,Connacht-David
+1089,2023-07-17,Charlie,31,Clothing,845.14,1001.77,New,0.03,Cash,Online,31054.87,30123.22,26199.34,3923.88,Ulster,Ulster-Charlie
+1099,2023-10-22,Bob,43,Clothing,906.47,1283.04,New,0.24,Cash,Online,55170.72,41929.75,38978.21,2951.54,Connacht,Connacht-Bob
+1030,2023-11-15,Eve,24,Clothing,1370.52,1482.58,Returning,0.2,Credit Card,Retail,35581.92,28465.54,32892.479999999996,-4426.94,Leinster,Leinster-Eve
+1017,2023-10-29,Eve,1,Furniture,641.68,752.24,New,0.22,Bank Transfer,Online,752.24,586.75,641.68,-54.93,Leinster,Leinster-Eve
+1062,2023-12-10,David,11,Electronics,1190.08,1292.94,Returning,0.13,Cash,Retail,14222.34,12373.44,13090.88,-717.44,Connacht,Connacht-David
+1084,2023-01-11,Bob,21,Clothing,576.74,648.29,Returning,0.2,Bank Transfer,Online,13614.09,10891.27,12111.54,-1220.27,Leinster,Leinster-Bob
+1089,2023-03-03,Charlie,4,Furniture,4117.67,4280.06,Returning,0.18,Bank Transfer,Online,17120.24,14038.6,16470.68,-2432.08,Ulster,Ulster-Charlie
+1086,2023-11-29,Bob,7,Food,737.9,1182.0,New,0.23,Credit Card,Retail,8274.0,6370.98,5165.3,1205.68,Connacht,Connacht-Bob
+1013,2023-08-14,Alice,26,Clothing,3749.12,4138.83,New,0.13,Credit Card,Online,107609.58,93620.33,97477.12,-3856.79,Leinster,Leinster-Alice
+1059,2023-06-02,Bob,47,Furniture,287.17,657.44,Returning,0.14,Credit Card,Retail,30899.680000000004,26573.72,13496.990000000002,13076.73,Connacht,Connacht-Bob
+1019,2023-07-18,Alice,12,Clothing,4745.18,5145.88,Returning,0.19,Credit Card,Online,61750.56,50017.95,56942.16,-6924.21,Ulster,Ulster-Alice
+1049,2023-02-21,Alice,31,Electronics,3570.24,3712.25,New,0.03,Credit Card,Online,115079.75,111627.36,110677.43999999999,949.92,Leinster,Leinster-Alice
+1100,2023-09-17,Charlie,17,Electronics,83.64,528.49,New,0.13,Credit Card,Online,8984.33,7816.37,1421.88,6394.49,Ulster,Ulster-Charlie
+1012,2023-02-28,David,33,Food,3831.09,3908.37,New,0.29,Cash,Retail,128976.20999999999,91573.11,126425.97,-34852.86,Leinster,Leinster-David
+1061,2023-03-13,Bob,11,Clothing,2594.71,2769.52,Returning,0.01,Bank Transfer,Retail,30464.72,30160.07,28541.81,1618.26,Munster,Munster-Bob
+1019,2023-05-28,Alice,28,Furniture,3907.86,4205.37,New,0.09,Credit Card,Online,117750.36,107152.83,109420.08,-2267.25,Leinster,Leinster-Alice
+1076,2023-12-15,Bob,32,Food,2636.36,2696.78,New,0.09,Cash,Retail,86296.96,78530.23,84363.52,-5833.29,Connacht,Connacht-Bob
+1009,2023-03-04,David,1,Clothing,3223.07,3590.83,New,0.19,Bank Transfer,Retail,3590.83,2908.57,3223.07,-314.5,Leinster,Leinster-David
+1071,2023-11-06,David,47,Food,3942.34,4142.09,Returning,0.03,Credit Card,Retail,194678.23,188837.88,185289.98,3547.9,Ulster,Ulster-David
+1028,2023-08-31,Eve,28,Furniture,2055.28,2449.64,New,0.19,Credit Card,Online,68589.92,55557.84,57547.840000000004,-1990.0,Ulster,Ulster-Eve
+1078,2024-01-01,David,42,Food,63.41,314.93,Returning,0.03,Cash,Retail,13227.06,12830.25,2663.22,10167.03,Leinster,Leinster-David
+1095,2023-11-26,Charlie,7,Food,4257.24,4355.87,Returning,0.03,Bank Transfer,Online,30491.09,29576.36,29800.68,-224.32,Connacht,Connacht-Charlie
+1052,2023-04-17,Alice,2,Food,1935.41,2305.44,Returning,0.22,Credit Card,Online,4610.88,3596.49,3870.82,-274.33,Munster,Munster-Alice
+1083,2023-08-14,Eve,42,Clothing,2505.41,2638.96,New,0.1,Bank Transfer,Online,110836.32,99752.69,105227.22,-5474.53,Connacht,Connacht-Eve
+1016,2023-11-09,Charlie,24,Furniture,88.44,338.94,New,0.29,Cash,Online,8134.5599999999995,5775.54,2122.56,3652.98,Munster,Munster-Charlie
+1069,2023-08-06,Bob,4,Electronics,2485.86,2532.87,New,0.01,Credit Card,Online,10131.48,10030.17,9943.44,86.73,Ulster,Ulster-Bob
+1099,2023-08-29,Alice,44,Clothing,4933.11,5245.86,Returning,0.13,Bank Transfer,Retail,230817.84,200811.52,217056.84,-16245.32,Connacht,Connacht-Alice
+1012,2023-09-16,David,19,Electronics,1427.42,1763.69,New,0.03,Cash,Retail,33510.11,32504.81,27120.980000000003,5383.83,Munster,Munster-David
+1025,2023-09-19,Alice,26,Electronics,2007.32,2202.87,Returning,0.11,Cash,Online,57274.619999999995,50974.41,52190.32,-1215.91,Leinster,Leinster-Alice
+1052,2023-01-05,Bob,11,Clothing,3451.59,3929.26,New,0.3,Credit Card,Retail,43221.86,30255.3,37967.490000000005,-7712.19,Ulster,Ulster-Bob
+1085,2023-09-18,Eve,40,Clothing,4083.23,4521.57,New,0.27,Bank Transfer,Retail,180862.8,132029.84,163329.2,-31299.36,Leinster,Leinster-Eve
+1100,2023-02-23,Eve,43,Furniture,2116.09,2472.98,New,0.01,Credit Card,Retail,106338.14,105274.76,90991.87000000001,14282.89,Ulster,Ulster-Eve
+1053,2023-02-16,Eve,11,Furniture,1582.86,1942.55,New,0.17,Credit Card,Retail,21368.05,17735.48,17411.46,324.02,Connacht,Connacht-Eve
+1023,2023-08-03,David,45,Food,4692.24,4825.92,Returning,0.19,Bank Transfer,Retail,217166.4,175904.78,211150.8,-35246.02,Connacht,Connacht-David
+1016,2023-06-26,Charlie,3,Electronics,3401.87,3733.71,Returning,0.06,Bank Transfer,Retail,11201.130000000001,10529.06,10205.61,323.45,Ulster,Ulster-Charlie
+1057,2023-01-09,Charlie,12,Furniture,639.16,746.28,Returning,0.04,Bank Transfer,Retail,8955.36,8597.15,7669.92,927.23,Ulster,Ulster-Charlie
+1039,2023-04-09,Alice,3,Food,391.19,471.75,Returning,0.27,Cash,Online,1415.25,1033.13,1173.57,-140.44,Ulster,Ulster-Alice
+1053,2023-01-20,David,42,Furniture,2443.57,2943.31,New,0.29,Cash,Online,123619.02,87769.5,102629.94,-14860.44,Connacht,Connacht-David
+1042,2023-08-29,Eve,27,Clothing,1139.45,1454.41,Returning,0.3,Bank Transfer,Online,39269.07,27488.35,30765.15,-3276.8,Munster,Munster-Eve
+1058,2023-03-02,Eve,49,Furniture,1307.22,1528.4,Returning,0.24,Cash,Retail,74891.6,56917.62,64053.78,-7136.16,Leinster,Leinster-Eve
+1039,2023-06-27,Bob,2,Electronics,4394.58,4545.78,Returning,0.2,Credit Card,Retail,9091.56,7273.25,8789.16,-1515.91,Leinster,Leinster-Bob
+1014,2023-12-04,Bob,49,Furniture,493.35,799.27,New,0.1,Bank Transfer,Online,39164.229999999996,35247.81,24174.15,11073.66,Connacht,Connacht-Bob
+1095,2023-03-03,Eve,16,Electronics,3591.05,3625.35,Returning,0.05,Credit Card,Retail,58005.6,55105.32,57456.8,-2351.48,Leinster,Leinster-Eve
+1005,2023-05-25,Eve,2,Clothing,1392.15,1448.54,Returning,0.02,Bank Transfer,Retail,2897.08,2839.14,2784.3,54.84,Ulster,Ulster-Eve
+1035,2023-08-04,David,30,Electronics,3813.62,3839.72,New,0.21,Credit Card,Online,115191.59999999999,91001.36,114408.59999999999,-23407.24,Munster,Munster-David
+1087,2023-01-03,Charlie,20,Furniture,3625.94,3880.53,New,0.24,Bank Transfer,Online,77610.6,58984.06,72518.8,-13534.74,Leinster,Leinster-Charlie
+1093,2023-06-09,Bob,38,Food,86.59,390.89,Returning,0.25,Credit Card,Online,14853.82,11140.36,3290.42,7849.94,Munster,Munster-Bob
+1075,2023-08-15,Charlie,28,Clothing,2570.22,2610.84,Returning,0.27,Bank Transfer,Retail,73103.52,53365.57,71966.15999999999,-18600.59,Ulster,Ulster-Charlie
+1018,2023-09-26,David,25,Furniture,739.63,1103.03,New,0.26,Bank Transfer,Retail,27575.75,20406.06,18490.75,1915.31,Leinster,Leinster-David
+1076,2023-04-30,Eve,32,Clothing,4337.82,4460.71,Returning,0.3,Cash,Retail,142742.72,99919.9,138810.24,-38890.34,Connacht,Connacht-Eve
+1009,2023-03-30,Charlie,10,Clothing,4364.35,4710.1,New,0.07,Credit Card,Online,47101.0,43803.93,43643.5,160.43,Munster,Munster-Charlie
+1074,2023-11-25,Eve,42,Furniture,2120.81,2611.94,Returning,0.23,Cash,Online,109701.48,84470.14,89074.02,-4603.88,Ulster,Ulster-Eve
+1058,2023-03-09,Eve,40,Furniture,2249.76,2598.4,Returning,0.18,Credit Card,Retail,103936.0,85227.52,89990.40000000001,-4762.88,Munster,Munster-Eve
+1017,2023-12-23,Alice,33,Food,1551.25,1994.01,Returning,0.08,Cash,Online,65802.33,60538.14,51191.25,9346.89,Leinster,Leinster-Alice
+1007,2023-04-08,Charlie,13,Clothing,3597.2,4071.82,Returning,0.29,Bank Transfer,Online,52933.66,37582.9,46763.6,-9180.7,Leinster,Leinster-Charlie
+1046,2023-09-24,Charlie,41,Clothing,1825.37,2073.88,Returning,0.27,Cash,Retail,85029.08,62071.23,74840.17,-12768.94,Connacht,Connacht-Charlie
+1013,2023-04-15,Eve,42,Furniture,1375.57,1729.71,New,0.04,Cash,Online,72647.82,69741.91,57773.939999999995,11967.97,Ulster,Ulster-Eve
+1040,2023-11-19,David,47,Electronics,2189.54,2617.0,New,0.01,Bank Transfer,Online,122999.0,121769.01,102908.38,18860.63,Ulster,Ulster-David
+1042,2023-05-03,Alice,37,Furniture,502.86,687.6,Returning,0.21,Cash,Online,25441.2,20098.55,18605.82,1492.73,Connacht,Connacht-Alice
+1009,2023-01-29,Eve,16,Clothing,3745.69,3883.77,Returning,0.18,Bank Transfer,Retail,62140.32,50955.06,59931.04,-8975.98,Connacht,Connacht-Eve
+1050,2023-05-17,Bob,45,Furniture,112.35,586.18,Returning,0.28,Credit Card,Retail,26378.1,18992.23,5055.75,13936.48,Ulster,Ulster-Bob
+1027,2023-07-14,Bob,22,Food,3240.2,3606.09,New,0.07,Cash,Online,79333.98000000001,73780.6,71284.4,2496.2,Munster,Munster-Bob
+1066,2023-08-14,Alice,20,Electronics,955.18,1072.82,New,0.03,Bank Transfer,Retail,21456.399999999998,20812.71,19103.6,1709.11,Munster,Munster-Alice
+1005,2023-11-28,David,43,Furniture,1200.4,1430.45,New,0.08,Bank Transfer,Retail,61509.35,56588.6,51617.200000000004,4971.4,Connacht,Connacht-David
+1029,2023-06-19,Eve,27,Food,3196.38,3596.64,New,0.01,Cash,Retail,97109.28,96138.19,86302.26000000001,9835.93,Munster,Munster-Eve
+1037,2023-01-09,Charlie,41,Clothing,4965.07,5243.13,New,0.01,Credit Card,Online,214968.33000000002,212818.65,203567.87,9250.78,Ulster,Ulster-Charlie
+1038,2023-02-09,Alice,16,Furniture,3899.7,4228.18,New,0.27,Cash,Retail,67650.88,49385.14,62395.2,-13010.06,Leinster,Leinster-Alice
+1083,2023-01-25,David,34,Clothing,1167.91,1547.26,New,0.11,Bank Transfer,Online,52606.84,46820.09,39708.94,7111.15,Leinster,Leinster-David
+1008,2023-09-18,Charlie,32,Food,921.32,1236.1,New,0.12,Credit Card,Online,39555.2,34808.58,29482.24,5326.34,Munster,Munster-Charlie
+1065,2023-08-14,Bob,26,Clothing,4337.85,4612.49,Returning,0.01,Cash,Retail,119924.73999999999,118725.49,112784.1,5941.39,Connacht,Connacht-Bob
+1086,2023-05-04,Bob,25,Food,2248.71,2626.02,New,0.08,Bank Transfer,Online,65650.5,60398.46,56217.75,4180.71,Connacht,Connacht-Bob
+1017,2023-02-07,Charlie,2,Food,728.41,1094.92,New,0.24,Cash,Retail,2189.84,1664.28,1456.82,207.46,Connacht,Connacht-Charlie
+1071,2023-11-24,Alice,12,Food,4317.95,4636.59,New,0.18,Credit Card,Retail,55639.08,45624.05,51815.399999999994,-6191.35,Connacht,Connacht-Alice
+1089,2023-09-08,Bob,40,Furniture,4089.66,4275.96,New,0.23,Credit Card,Online,171038.4,131699.57,163586.4,-31886.83,Connacht,Connacht-Bob
+1045,2023-06-25,Eve,9,Clothing,4920.34,5129.19,Returning,0.13,Credit Card,Online,46162.71,40161.56,44283.06,-4121.5,Munster,Munster-Eve
+1004,2023-03-31,Charlie,12,Clothing,4553.23,5038.74,New,0.09,Credit Card,Retail,60464.88,55023.04,54638.759999999995,384.28,Leinster,Leinster-Charlie
+1036,2023-02-06,Charlie,26,Electronics,4266.36,4331.43,Returning,0.14,Credit Card,Retail,112617.18000000001,96850.77,110925.35999999999,-14074.59,Leinster,Leinster-Charlie
+1070,2023-11-12,Bob,9,Electronics,310.24,451.81,Returning,0.1,Cash,Retail,4066.29,3659.66,2792.16,867.5,Munster,Munster-Bob
+1031,2023-06-25,Alice,10,Electronics,566.86,818.14,Returning,0.25,Credit Card,Retail,8181.4,6136.05,5668.6,467.45,Connacht,Connacht-Alice
+1019,2023-10-11,Eve,32,Electronics,2866.47,3286.47,New,0.09,Credit Card,Online,105167.04,95702.01,91727.04,3974.97,Munster,Munster-Eve
+1061,2023-03-22,Alice,34,Clothing,2680.82,2771.02,New,0.2,Bank Transfer,Online,94214.68,75371.74,91147.88,-15776.14,Leinster,Leinster-Alice
+1054,2023-04-24,David,48,Food,2316.92,2462.63,New,0.04,Credit Card,Online,118206.24,113477.99,111212.16,2265.83,Ulster,Ulster-David
+1039,2023-02-09,David,20,Food,2014.11,2056.35,Returning,0.21,Bank Transfer,Retail,41127.0,32490.33,40282.2,-7791.87,Munster,Munster-David
+1091,2023-10-28,Bob,39,Furniture,2184.49,2540.42,Returning,0.27,Bank Transfer,Online,99076.38,72325.76,85195.10999999999,-12869.35,Connacht,Connacht-Bob
+1074,2023-08-12,Bob,2,Food,2868.02,2994.74,Returning,0.18,Bank Transfer,Online,5989.48,4911.37,5736.04,-824.67,Leinster,Leinster-Bob
+1090,2023-11-14,Bob,1,Clothing,60.28,260.73,Returning,0.17,Cash,Online,260.73,216.41,60.28,156.13,Leinster,Leinster-Bob
+1019,2023-12-15,David,36,Clothing,1340.51,1567.92,New,0.29,Cash,Online,56445.12,40076.04,48258.36,-8182.32,Leinster,Leinster-David
+1039,2023-04-25,Alice,24,Clothing,2615.48,3062.22,New,0.19,Bank Transfer,Retail,73493.28,59529.56,62771.520000000004,-3241.96,Leinster,Leinster-Alice
+1067,2023-07-05,Alice,27,Furniture,3624.97,3836.52,New,0.08,Cash,Online,103586.04,95299.16,97874.18999999999,-2575.03,Connacht,Connacht-Alice
+1045,2023-11-19,Bob,2,Electronics,912.08,993.24,Returning,0.09,Credit Card,Online,1986.48,1807.7,1824.16,-16.46,Ulster,Ulster-Bob
+1013,2023-02-25,Eve,31,Food,2757.06,3023.97,Returning,0.21,Cash,Online,93743.06999999999,74057.03,85468.86,-11411.83,Leinster,Leinster-Eve
+1092,2023-02-09,Alice,14,Clothing,3586.58,4068.43,New,0.22,Credit Card,Online,56958.02,44427.26,50212.119999999995,-5784.86,Munster,Munster-Alice
+1058,2023-12-20,David,2,Clothing,2250.91,2558.68,New,0.09,Credit Card,Retail,5117.36,4656.8,4501.82,154.98,Ulster,Ulster-David
+1020,2023-02-09,Charlie,29,Electronics,184.05,675.91,Returning,0.1,Cash,Retail,19601.39,17641.25,5337.450000000001,12303.8,Leinster,Leinster-Charlie
+1092,2023-12-13,Charlie,15,Clothing,2273.88,2696.02,New,0.3,Cash,Online,40440.3,28308.21,34108.200000000004,-5799.99,Ulster,Ulster-Charlie
+1072,2023-08-25,Charlie,12,Food,1517.4,1545.02,New,0.03,Bank Transfer,Retail,18540.239999999998,17984.03,18208.800000000003,-224.77,Munster,Munster-Charlie
+1061,2023-10-16,Eve,37,Furniture,4651.77,4984.39,Returning,0.12,Cash,Retail,184422.43000000002,162291.74,172115.49000000002,-9823.75,Leinster,Leinster-Eve
+1039,2023-09-19,Bob,28,Clothing,666.84,817.36,Returning,0.02,Cash,Retail,22886.08,22428.36,18671.52,3756.84,Munster,Munster-Bob
+1001,2023-08-04,David,20,Food,3279.76,3563.97,Returning,0.25,Cash,Retail,71279.4,53459.55,65595.20000000001,-12135.65,Connacht,Connacht-David
+1003,2023-05-27,Eve,39,Clothing,310.96,457.84,New,0.03,Credit Card,Online,17855.76,17320.09,12127.439999999999,5192.65,Leinster,Leinster-Eve
+1077,2023-12-02,David,24,Electronics,2258.54,2439.49,Returning,0.2,Credit Card,Retail,58547.759999999995,46838.21,54204.96,-7366.75,Leinster,Leinster-David
+1092,2023-06-17,David,21,Clothing,2792.2,3254.55,New,0.02,Credit Card,Retail,68345.55,66978.64,58636.2,8342.44,Leinster,Leinster-David
+1062,2023-04-02,Bob,10,Clothing,1524.88,1636.14,New,0.2,Bank Transfer,Online,16361.400000000001,13089.12,15248.800000000001,-2159.68,Leinster,Leinster-Bob
+1063,2023-12-19,Charlie,46,Furniture,2302.62,2740.93,Returning,0.25,Bank Transfer,Online,126082.78,94562.08,105920.51999999999,-11358.44,Connacht,Connacht-Charlie
+1025,2023-02-28,Bob,14,Electronics,859.59,884.51,New,0.12,Bank Transfer,Online,12383.14,10897.16,12034.26,-1137.1,Leinster,Leinster-Bob
+1056,2023-02-28,Eve,37,Electronics,1555.41,1609.94,Returning,0.16,Credit Card,Online,59567.78,50036.94,57550.170000000006,-7513.23,Ulster,Ulster-Eve
+1033,2023-10-31,Eve,18,Furniture,3124.48,3553.27,Returning,0.12,Cash,Retail,63958.86,56283.8,56240.64,43.16,Leinster,Leinster-Eve
+1038,2023-06-18,Eve,24,Clothing,1543.91,1862.88,New,0.09,Bank Transfer,Online,44709.12,40685.3,37053.840000000004,3631.46,Connacht,Connacht-Eve
+1006,2023-09-26,Bob,14,Food,4503.73,4879.88,New,0.24,Bank Transfer,Retail,68318.32,51921.92,63052.219999999994,-11130.3,Leinster,Leinster-Bob
+1058,2023-12-29,David,34,Electronics,3160.61,3273.22,Returning,0.08,Credit Card,Retail,111289.48,102386.32,107460.74,-5074.42,Ulster,Ulster-David
+1044,2023-02-14,David,12,Electronics,2221.31,2494.48,Returning,0.22,Bank Transfer,Online,29933.760000000002,23348.33,26655.72,-3307.39,Connacht,Connacht-David
+1045,2023-12-11,Alice,22,Clothing,241.85,613.09,Returning,0.06,Cash,Online,13487.980000000001,12678.7,5320.7,7358.0,Connacht,Connacht-Alice
+1032,2023-06-30,Eve,6,Clothing,2522.76,2840.14,Returning,0.07,Credit Card,Retail,17040.84,15847.98,15136.560000000001,711.42,Ulster,Ulster-Eve
+1045,2023-06-19,David,36,Electronics,3835.64,4076.77,Returning,0.1,Credit Card,Retail,146763.72,132087.35,138083.04,-5995.69,Ulster,Ulster-David
+1061,2023-12-22,Alice,45,Clothing,1364.51,1844.8,Returning,0.18,Cash,Online,83016.0,68073.12,61402.95,6670.17,Ulster,Ulster-Alice
+1047,2023-07-10,David,36,Food,4043.53,4384.85,New,0.14,Cash,Online,157854.6,135754.96,145567.08000000002,-9812.12,Ulster,Ulster-David
+1021,2023-06-04,Eve,22,Electronics,1296.44,1751.24,New,0.22,Cash,Online,38527.28,30051.28,28521.68,1529.6,Ulster,Ulster-Eve
+1080,2023-07-07,Charlie,14,Food,4127.54,4495.13,New,0.06,Bank Transfer,Retail,62931.82,59155.91,57785.56,1370.35,Connacht,Connacht-Charlie
+1085,2023-01-07,Eve,16,Food,472.08,842.46,New,0.0,Cash,Retail,13479.36,13479.36,7553.28,5926.08,Connacht,Connacht-Eve
+1075,2023-05-13,Bob,36,Clothing,4337.61,4386.82,Returning,0.23,Credit Card,Online,157925.52,121602.65,156153.96,-34551.31,Leinster,Leinster-Bob
+1036,2023-08-23,David,25,Food,2520.97,2707.11,New,0.25,Cash,Retail,67677.75,50758.31,63024.24999999999,-12265.94,Leinster,Leinster-David
+1099,2023-02-14,David,32,Clothing,1517.86,1948.46,New,0.02,Credit Card,Online,62350.72,61103.71,48571.52,12532.19,Munster,Munster-David
+1019,2023-11-10,Bob,33,Furniture,1362.31,1486.29,Returning,0.18,Credit Card,Retail,49047.57,40219.01,44956.229999999996,-4737.22,Leinster,Leinster-Bob
+1020,2023-09-06,Bob,45,Clothing,2188.45,2255.05,New,0.11,Bank Transfer,Retail,101477.25000000001,90314.75,98480.24999999999,-8165.5,Leinster,Leinster-Bob
+1057,2023-01-31,Charlie,36,Food,4995.3,5165.09,Returning,0.24,Cash,Online,185943.24,141316.86,179830.80000000002,-38513.94,Ulster,Ulster-Charlie
+1018,2023-01-23,David,20,Furniture,1140.62,1258.63,Returning,0.26,Bank Transfer,Online,25172.600000000002,18627.72,22812.399999999998,-4184.68,Ulster,Ulster-David
+1047,2023-06-09,David,18,Clothing,560.92,1024.31,Returning,0.26,Cash,Online,18437.579999999998,13643.81,10096.56,3547.25,Leinster,Leinster-David
+1049,2023-12-29,Charlie,38,Food,2945.92,3381.22,Returning,0.23,Cash,Retail,128486.35999999999,98934.5,111944.96,-13010.46,Munster,Munster-Charlie
+1014,2023-06-07,Alice,3,Electronics,2468.29,2723.13,Returning,0.08,Cash,Retail,8169.39,7515.84,7404.87,110.97,Ulster,Ulster-Alice
+1015,2023-02-08,Charlie,23,Electronics,2644.77,2684.83,New,0.24,Cash,Online,61751.09,46930.83,60829.71,-13898.88,Leinster,Leinster-Charlie
+1031,2023-03-23,Eve,32,Clothing,3351.33,3711.47,New,0.16,Cash,Retail,118767.04,99764.31,107242.56,-7478.25,Leinster,Leinster-Eve
+1001,2023-12-22,David,45,Clothing,1372.36,1687.83,New,0.02,Credit Card,Online,75952.34999999999,74433.3,61756.2,12677.1,Connacht,Connacht-David
+1054,2023-09-15,Bob,16,Electronics,4557.79,5043.36,Returning,0.14,Credit Card,Retail,80693.76,69396.63,72924.64,-3528.01,Munster,Munster-Bob
+1003,2023-07-25,Eve,5,Food,2206.58,2490.47,New,0.28,Cash,Online,12452.349999999999,8965.69,11032.9,-2067.21,Connacht,Connacht-Eve
+1016,2023-03-18,David,4,Food,688.98,863.81,New,0.27,Credit Card,Retail,3455.24,2522.33,2755.92,-233.59,Munster,Munster-David
+1087,2023-01-12,Charlie,21,Food,3724.38,3988.7,New,0.03,Bank Transfer,Retail,83762.7,81249.82,78211.98,3037.84,Ulster,Ulster-Charlie
+1057,2023-10-22,Eve,40,Clothing,3233.37,3723.21,New,0.22,Bank Transfer,Retail,148928.4,116164.15,129334.79999999999,-13170.65,Munster,Munster-Eve
+1075,2023-08-12,David,14,Furniture,1612.93,1964.15,Returning,0.24,Bank Transfer,Retail,27498.100000000002,20898.56,22581.02,-1682.46,Leinster,Leinster-David
+1012,2023-01-13,Alice,39,Furniture,3126.52,3465.79,New,0.08,Cash,Online,135165.81,124352.55,121934.28,2418.27,Leinster,Leinster-Alice
+1074,2023-02-15,Alice,31,Furniture,1138.32,1266.25,Returning,0.14,Cash,Retail,39253.75,33758.22,35287.92,-1529.7,Munster,Munster-Alice
+1096,2023-06-04,Bob,14,Furniture,2251.95,2626.32,Returning,0.21,Credit Card,Online,36768.48,29047.1,31527.299999999996,-2480.2,Munster,Munster-Bob
+1016,2023-04-23,David,6,Furniture,4502.09,4879.72,New,0.13,Credit Card,Online,29278.32,25472.14,27012.54,-1540.4,Munster,Munster-David
+1072,2023-08-21,Alice,12,Clothing,710.99,876.46,Returning,0.03,Credit Card,Online,10517.52,10201.99,8531.880000000001,1670.11,Connacht,Connacht-Alice
+1076,2023-01-17,Charlie,16,Clothing,1964.15,2211.17,Returning,0.21,Bank Transfer,Online,35378.72,27949.19,31426.4,-3477.21,Munster,Munster-Charlie
+1024,2023-12-26,David,17,Furniture,4114.66,4269.02,Returning,0.27,Bank Transfer,Retail,72573.34000000001,52978.54,69949.22,-16970.68,Ulster,Ulster-David
+1028,2023-08-11,Charlie,45,Clothing,4848.98,4985.75,Returning,0.2,Bank Transfer,Online,224358.75,179487.0,218204.09999999998,-38717.1,Connacht,Connacht-Charlie
+1008,2023-12-20,Charlie,23,Clothing,2296.93,2319.62,Returning,0.23,Bank Transfer,Retail,53351.259999999995,41080.47,52829.39,-11748.92,Connacht,Connacht-Charlie
+1092,2023-07-07,Alice,14,Furniture,2559.65,2709.4,Returning,0.11,Credit Card,Retail,37931.6,33759.12,35835.1,-2075.98,Munster,Munster-Alice
+1036,2023-12-10,David,7,Food,2882.25,3163.7,Returning,0.05,Cash,Retail,22145.899999999998,21038.6,20175.75,862.85,Ulster,Ulster-David
+1090,2023-12-31,Eve,46,Clothing,4665.12,4675.9,New,0.19,Cash,Retail,215091.4,174224.03,214595.52,-40371.49,Connacht,Connacht-Eve
+1008,2023-06-12,Alice,32,Food,4298.12,4446.9,New,0.1,Bank Transfer,Online,142300.8,128070.72,137539.84,-9469.12,Leinster,Leinster-Alice
+1058,2023-11-22,Alice,15,Clothing,894.48,1336.37,Returning,0.26,Cash,Retail,20045.55,14833.71,13417.2,1416.51,Connacht,Connacht-Alice
+1060,2023-03-15,David,44,Clothing,2211.95,2512.84,Returning,0.04,Cash,Online,110564.96,106142.36,97325.79999999999,8816.56,Munster,Munster-David
+1050,2023-08-21,David,17,Furniture,2346.8,2654.65,New,0.13,Cash,Retail,45129.05,39262.27,39895.600000000006,-633.33,Ulster,Ulster-David
+1028,2023-08-12,Charlie,41,Clothing,3956.03,4163.68,New,0.12,Bank Transfer,Retail,170710.88,150225.57,162197.23,-11971.66,Munster,Munster-Charlie
+1092,2023-11-15,David,47,Electronics,3034.32,3375.79,New,0.28,Credit Card,Online,158662.13,114236.73,142613.04,-28376.31,Leinster,Leinster-David
+1041,2023-03-01,Charlie,44,Electronics,3288.39,3391.46,New,0.05,Credit Card,Retail,149224.24,141763.03,144689.16,-2926.13,Leinster,Leinster-Charlie
+1100,2023-12-01,Alice,34,Furniture,4991.09,5402.28,Returning,0.0,Cash,Retail,183677.52,183677.52,169697.06,13980.46,Leinster,Leinster-Alice
+1064,2023-08-10,Bob,5,Food,421.05,488.23,Returning,0.07,Credit Card,Retail,2441.15,2270.27,2105.25,165.02,Munster,Munster-Bob
+1027,2023-02-06,Eve,45,Food,1153.9,1485.34,New,0.25,Credit Card,Retail,66840.3,50130.23,51925.50000000001,-1795.27,Connacht,Connacht-Eve
+1063,2023-10-05,Alice,27,Food,2069.08,2246.24,New,0.06,Bank Transfer,Retail,60648.479999999996,57009.57,55865.159999999996,1144.41,Munster,Munster-Alice
+1017,2023-07-15,David,23,Electronics,1771.52,2147.8,New,0.07,Bank Transfer,Online,49399.4,45941.44,40744.96,5196.48,Ulster,Ulster-David
+1073,2023-12-18,Eve,40,Food,157.15,436.53,New,0.04,Cash,Retail,17461.199999999997,16762.75,6286.0,10476.75,Connacht,Connacht-Eve
+1033,2023-08-30,Bob,14,Food,504.3,735.95,Returning,0.21,Cash,Retail,10303.300000000001,8139.61,7060.2,1079.41,Leinster,Leinster-Bob
+1084,2023-11-20,Bob,15,Furniture,3420.72,3513.74,New,0.02,Cash,Online,52706.1,51651.98,51310.799999999996,341.18,Munster,Munster-Bob
+1077,2023-08-07,Charlie,43,Food,4402.66,4724.7,New,0.1,Bank Transfer,Retail,203162.1,182845.89,189314.38,-6468.49,Leinster,Leinster-Charlie
+1092,2023-07-11,Eve,33,Electronics,2595.42,3083.06,New,0.08,Credit Card,Online,101740.98,93601.7,85648.86,7952.84,Leinster,Leinster-Eve
+1029,2023-01-17,Charlie,31,Electronics,2719.0,3133.55,Returning,0.17,Bank Transfer,Retail,97140.05,80626.24,84289.0,-3662.76,Ulster,Ulster-Charlie
+1013,2023-01-12,Alice,35,Electronics,1312.71,1352.11,Returning,0.22,Bank Transfer,Retail,47323.85,36912.6,45944.85,-9032.25,Connacht,Connacht-Alice
+1046,2023-07-12,Eve,17,Furniture,3850.99,4045.34,Returning,0.16,Credit Card,Online,68770.78,57767.46,65466.829999999994,-7699.37,Ulster,Ulster-Eve
+1035,2023-01-22,Alice,28,Furniture,3771.38,4234.92,New,0.28,Credit Card,Retail,118577.76000000001,85375.99,105598.64,-20222.65,Ulster,Ulster-Alice
+1006,2023-04-30,Charlie,19,Clothing,2962.41,3218.9,New,0.29,Cash,Retail,61159.1,43422.96,56285.78999999999,-12862.83,Ulster,Ulster-Charlie
+1082,2023-07-29,Eve,46,Food,1102.69,1437.12,New,0.11,Credit Card,Online,66107.51999999999,58835.69,50723.740000000005,8111.95,Leinster,Leinster-Eve
+1069,2023-11-02,Charlie,23,Furniture,530.24,987.41,Returning,0.23,Credit Card,Online,22710.43,17487.03,12195.52,5291.51,Ulster,Ulster-Charlie
+1047,2023-09-27,Eve,32,Electronics,367.98,806.14,Returning,0.22,Credit Card,Retail,25796.48,20121.25,11775.36,8345.89,Ulster,Ulster-Eve
+1025,2023-07-11,Charlie,40,Electronics,2983.85,3239.74,New,0.27,Credit Card,Online,129589.59999999999,94600.41,119354.0,-24753.59,Connacht,Connacht-Charlie
+1066,2023-06-24,Bob,13,Furniture,4133.92,4358.37,New,0.13,Cash,Retail,56658.81,49293.16,53740.96,-4447.8,Connacht,Connacht-Bob
+1010,2023-10-12,Charlie,20,Furniture,4298.74,4475.19,Returning,0.16,Cash,Online,89503.79999999999,75183.19,85974.79999999999,-10791.61,Ulster,Ulster-Charlie
+1056,2023-07-23,Bob,35,Furniture,2344.93,2707.25,New,0.12,Credit Card,Retail,94753.75,83383.3,82072.54999999999,1310.75,Connacht,Connacht-Bob
+1030,2023-06-13,Charlie,5,Clothing,3932.14,4082.76,New,0.26,Credit Card,Online,20413.800000000003,15106.21,19660.7,-4554.49,Connacht,Connacht-Charlie
+1005,2023-09-08,Eve,9,Electronics,4737.06,4869.5,New,0.07,Cash,Online,43825.5,40757.71,42633.54,-1875.83,Ulster,Ulster-Eve
+1033,2023-08-15,Eve,29,Clothing,1412.09,1596.65,Returning,0.07,Cash,Online,46302.850000000006,43061.65,40950.61,2111.04,Leinster,Leinster-Eve
+1065,2023-01-07,Eve,6,Clothing,2019.9,2116.74,New,0.11,Credit Card,Online,12700.439999999999,11303.39,12119.400000000001,-816.01,Ulster,Ulster-Eve
+1018,2023-01-29,David,25,Food,4660.82,5011.43,New,0.07,Bank Transfer,Online,125285.75,116515.75,116520.5,-4.75,Connacht,Connacht-David
+1096,2023-02-02,Alice,31,Electronics,1724.24,2036.2,New,0.17,Cash,Online,63122.200000000004,52391.43,53451.44,-1060.01,Leinster,Leinster-Alice
+1049,2023-05-14,Eve,22,Electronics,4573.69,4820.3,New,0.04,Cash,Online,106046.6,101804.74,100621.18,1183.56,Munster,Munster-Eve
+1011,2023-03-20,Bob,2,Furniture,4906.17,5107.43,Returning,0.1,Cash,Online,10214.86,9193.37,9812.34,-618.97,Leinster,Leinster-Bob
+1085,2023-02-27,Eve,45,Furniture,3325.96,3781.4,Returning,0.27,Credit Card,Online,170163.0,124218.99,149668.2,-25449.21,Connacht,Connacht-Eve
+1026,2023-01-26,David,5,Food,4093.61,4117.88,Returning,0.12,Credit Card,Retail,20589.4,18118.67,20468.05,-2349.38,Leinster,Leinster-David
+1063,2023-08-14,Bob,27,Clothing,3760.25,4147.11,New,0.22,Cash,Online,111971.96999999999,87338.14,101526.75,-14188.61,Ulster,Ulster-Bob
+1089,2023-10-12,David,25,Furniture,3512.69,3964.63,Returning,0.03,Credit Card,Retail,99115.75,96142.28,87817.25,8325.03,Munster,Munster-David
+1086,2023-01-04,Bob,8,Furniture,1569.31,1798.02,New,0.07,Credit Card,Online,14384.16,13377.27,12554.48,822.79,Munster,Munster-Bob
+1059,2023-04-09,Charlie,1,Electronics,332.62,612.46,Returning,0.24,Cash,Retail,612.46,465.47,332.62,132.85,Munster,Munster-Charlie
+1027,2023-02-08,Alice,20,Electronics,1748.11,2220.9,New,0.23,Credit Card,Retail,44418.0,34201.86,34962.2,-760.34,Connacht,Connacht-Alice
+1049,2023-09-28,Alice,44,Furniture,3351.33,3465.35,Returning,0.12,Bank Transfer,Online,152475.4,134178.35,147458.52,-13280.17,Connacht,Connacht-Alice
+1077,2023-10-12,David,23,Electronics,557.52,822.39,Returning,0.29,Credit Card,Online,18914.97,13429.63,12822.96,606.67,Munster,Munster-David
+1033,2023-06-06,Alice,32,Food,108.99,351.6,Returning,0.27,Credit Card,Retail,11251.2,8213.38,3487.68,4725.7,Leinster,Leinster-Alice
+1098,2023-03-16,David,11,Furniture,741.48,878.09,New,0.29,Cash,Retail,9658.99,6857.88,8156.280000000001,-1298.4,Munster,Munster-David
+1099,2023-10-15,David,39,Electronics,3592.89,4004.0,New,0.13,Cash,Online,156156.0,135855.72,140122.71,-4266.99,Leinster,Leinster-David
+1001,2023-05-10,David,47,Food,4865.33,5316.13,New,0.06,Bank Transfer,Online,249858.11000000002,234866.62,228670.51,6196.11,Leinster,Leinster-David
+1021,2023-06-24,Alice,24,Electronics,4916.17,5309.32,Returning,0.19,Credit Card,Online,127423.68,103213.18,117988.08,-14774.9,Connacht,Connacht-Alice
+1055,2023-03-25,David,11,Electronics,2495.2,2600.93,New,0.21,Bank Transfer,Retail,28610.23,22602.08,27447.199999999997,-4845.12,Leinster,Leinster-David
+1006,2023-01-22,Alice,29,Electronics,4353.29,4405.8,New,0.04,Bank Transfer,Online,127768.20000000001,122657.47,126245.41,-3587.94,Munster,Munster-Alice
+1092,2023-01-27,David,26,Furniture,3697.29,4003.96,New,0.24,Cash,Online,104102.96,79118.25,96129.54,-17011.29,Connacht,Connacht-David
+1081,2023-07-14,Eve,16,Clothing,2530.15,2568.13,New,0.01,Credit Card,Online,41090.08,40679.18,40482.4,196.78,Ulster,Ulster-Eve
+1069,2023-12-03,David,35,Electronics,2885.16,3224.84,New,0.14,Cash,Online,112869.40000000001,97067.68,100980.59999999999,-3912.92,Ulster,Ulster-David
+1095,2023-08-24,Bob,20,Food,729.27,999.18,New,0.1,Bank Transfer,Online,19983.6,17985.24,14585.4,3399.84,Connacht,Connacht-Bob
+1005,2023-04-02,David,46,Furniture,4691.42,5026.19,Returning,0.22,Bank Transfer,Retail,231204.74,180339.7,215805.32,-35465.62,Munster,Munster-David
+1003,2023-01-21,Charlie,3,Furniture,1792.05,2091.23,Returning,0.09,Cash,Retail,6273.6900000000005,5709.06,5376.15,332.91,Ulster,Ulster-Charlie
+1053,2023-10-30,David,1,Food,2258.44,2475.56,New,0.25,Cash,Online,2475.56,1856.67,2258.44,-401.77,Ulster,Ulster-David
+1023,2023-12-23,Bob,47,Electronics,3374.72,3483.15,Returning,0.18,Cash,Online,163708.05000000002,134240.6,158611.84,-24371.24,Leinster,Leinster-Bob
+1053,2023-03-25,Bob,1,Clothing,1702.82,1862.61,Returning,0.24,Cash,Retail,1862.61,1415.58,1702.82,-287.24,Leinster,Leinster-Bob
+1037,2023-09-19,Alice,17,Electronics,1308.58,1575.59,New,0.3,Cash,Online,26785.03,18749.52,22245.86,-3496.34,Munster,Munster-Alice
+1074,2023-05-27,Eve,2,Food,3173.69,3503.11,New,0.2,Bank Transfer,Retail,7006.22,5604.98,6347.38,-742.4,Connacht,Connacht-Eve
+1074,2023-09-14,David,29,Furniture,173.67,565.62,Returning,0.3,Cash,Online,16402.98,11482.09,5036.429999999999,6445.66,Munster,Munster-David
+1083,2023-02-27,Alice,20,Clothing,3617.59,4003.5,New,0.01,Credit Card,Retail,80070.0,79269.3,72351.8,6917.5,Connacht,Connacht-Alice
+1017,2023-01-15,Eve,6,Furniture,2594.42,3081.04,Returning,0.1,Bank Transfer,Retail,18486.239999999998,16637.62,15566.52,1071.1,Ulster,Ulster-Eve
+1085,2023-06-11,David,8,Food,3048.48,3198.54,Returning,0.03,Bank Transfer,Online,25588.32,24820.67,24387.84,432.83,Leinster,Leinster-David
+1078,2023-06-12,Charlie,29,Electronics,3177.81,3222.65,Returning,0.08,Credit Card,Retail,93456.85,85980.3,92156.49,-6176.19,Munster,Munster-Charlie
+1073,2023-11-16,David,48,Clothing,2658.9,2838.27,New,0.25,Credit Card,Online,136236.96,102177.72,127627.20000000001,-25449.48,Munster,Munster-David
+1001,2023-10-08,Bob,33,Furniture,2933.54,3307.75,Returning,0.01,Bank Transfer,Retail,109155.75,108064.19,96806.81999999999,11257.37,Connacht,Connacht-Bob
+1051,2023-10-07,Bob,3,Furniture,3434.75,3659.42,New,0.16,Cash,Online,10978.26,9221.74,10304.25,-1082.51,Connacht,Connacht-Bob
+1045,2023-01-12,Charlie,35,Furniture,3777.94,4188.66,New,0.17,Bank Transfer,Online,146603.1,121680.57,132227.9,-10547.33,Munster,Munster-Charlie
+1077,2023-10-01,Alice,5,Electronics,3650.89,3930.06,New,0.17,Bank Transfer,Online,19650.3,16309.75,18254.45,-1944.7,Connacht,Connacht-Alice
+1004,2023-09-28,Eve,27,Clothing,4354.6,4820.2,New,0.14,Credit Card,Retail,130145.4,111925.04,117574.20000000001,-5649.16,Munster,Munster-Eve
+1062,2023-07-27,David,44,Electronics,987.74,1462.19,New,0.24,Bank Transfer,Online,64336.36,48895.63,43460.56,5435.07,Munster,Munster-David
+1065,2023-01-27,Bob,12,Electronics,2035.68,2079.64,Returning,0.04,Cash,Online,24955.68,23957.45,24428.16,-470.71,Munster,Munster-Bob
+1032,2023-03-13,Alice,20,Electronics,4741.59,4975.23,New,0.09,Credit Card,Online,99504.59999999999,90549.19,94831.8,-4282.61,Ulster,Ulster-Alice
+1034,2023-03-01,Charlie,45,Food,2013.12,2321.87,New,0.18,Bank Transfer,Retail,104484.15,85677.0,90590.4,-4913.4,Connacht,Connacht-Charlie
+1092,2023-05-25,Bob,20,Food,668.11,803.49,New,0.21,Bank Transfer,Online,16069.8,12695.14,13362.2,-667.06,Leinster,Leinster-Bob
+1095,2023-04-03,Charlie,9,Food,2650.95,2860.42,New,0.12,Cash,Retail,25743.78,22654.53,23858.55,-1204.02,Leinster,Leinster-Charlie
+1072,2023-11-05,David,39,Clothing,591.98,934.04,New,0.26,Bank Transfer,Retail,36427.56,26956.39,23087.22,3869.17,Connacht,Connacht-David
+1039,2023-01-08,Eve,4,Electronics,1054.12,1175.22,Returning,0.12,Bank Transfer,Retail,4700.88,4136.77,4216.48,-79.71,Munster,Munster-Eve
+1026,2023-03-20,Bob,19,Electronics,4991.68,5296.65,New,0.12,Bank Transfer,Online,100636.34999999999,88559.99,94841.92000000001,-6281.93,Leinster,Leinster-Bob
+1034,2023-01-27,Bob,38,Food,2729.75,3081.5,New,0.01,Bank Transfer,Online,117097.0,115926.03,103730.5,12195.53,Leinster,Leinster-Bob
+1054,2023-06-23,David,27,Electronics,1456.09,1510.43,Returning,0.17,Cash,Retail,40781.61,33848.74,39314.43,-5465.69,Connacht,Connacht-David
+1003,2023-02-19,Alice,45,Electronics,4974.14,5227.93,New,0.21,Bank Transfer,Online,235256.85,185852.91,223836.30000000002,-37983.39,Leinster,Leinster-Alice
+1050,2023-07-18,Eve,43,Furniture,4834.47,4973.38,Returning,0.03,Bank Transfer,Online,213855.34,207439.68,207882.21000000002,-442.53,Munster,Munster-Eve
+1012,2023-12-15,Bob,13,Electronics,2231.66,2596.61,Returning,0.09,Bank Transfer,Retail,33755.93,30717.9,29011.579999999998,1706.32,Connacht,Connacht-Bob
+1065,2023-06-30,Eve,13,Furniture,1339.0,1441.88,Returning,0.23,Credit Card,Retail,18744.440000000002,14433.22,17407.0,-2973.78,Munster,Munster-Eve
+1054,2023-01-24,Bob,22,Electronics,4200.08,4647.28,Returning,0.11,Cash,Online,102240.15999999999,90993.74,92401.76,-1408.02,Leinster,Leinster-Bob
+1005,2023-11-12,Eve,28,Clothing,3592.32,3813.48,New,0.07,Credit Card,Retail,106777.44,99303.02,100584.96,-1281.94,Leinster,Leinster-Eve
+1094,2023-02-15,Charlie,47,Food,3450.36,3557.38,New,0.2,Credit Card,Online,167196.86000000002,133757.49,162166.92,-28409.43,Munster,Munster-Charlie
+1094,2023-01-15,Bob,45,Furniture,4470.91,4695.54,Returning,0.06,Cash,Retail,211299.3,198621.34,201190.94999999998,-2569.61,Ulster,Ulster-Bob
+1057,2023-06-02,Eve,22,Food,3462.61,3672.89,Returning,0.27,Credit Card,Online,80803.58,58986.61,76177.42,-17190.81,Leinster,Leinster-Eve
+1017,2023-08-10,Alice,43,Furniture,1454.8,1674.97,New,0.03,Credit Card,Online,72023.71,69863.0,62556.4,7306.6,Ulster,Ulster-Alice
+1047,2023-07-25,Charlie,19,Furniture,3484.62,3781.55,Returning,0.21,Credit Card,Retail,71849.45,56761.07,66207.78,-9446.71,Leinster,Leinster-Charlie
+1023,2023-09-30,Charlie,8,Furniture,1563.78,1829.16,Returning,0.15,Cash,Online,14633.28,12438.29,12510.24,-71.95,Ulster,Ulster-Charlie
+1079,2023-08-24,Alice,8,Clothing,3808.23,3891.62,Returning,0.26,Bank Transfer,Online,31132.96,23038.39,30465.84,-7427.45,Ulster,Ulster-Alice
+1085,2023-12-06,Eve,42,Electronics,3117.75,3159.88,New,0.04,Cash,Retail,132714.96,127406.36,130945.5,-3539.14,Ulster,Ulster-Eve
+1014,2023-08-16,David,26,Furniture,433.19,800.6,Returning,0.2,Cash,Online,20815.600000000002,16652.48,11262.94,5389.54,Munster,Munster-David
+1066,2023-01-09,Alice,48,Clothing,2588.54,2872.8,New,0.17,Cash,Online,137894.40000000002,114452.35,124249.92,-9797.57,Ulster,Ulster-Alice
+1075,2023-06-15,Eve,26,Furniture,1749.34,1935.25,New,0.14,Credit Card,Online,50316.5,43272.19,45482.84,-2210.65,Ulster,Ulster-Eve
+1051,2023-11-15,Alice,23,Electronics,1676.42,2082.52,New,0.15,Bank Transfer,Retail,47897.96,40713.27,38557.66,2155.61,Ulster,Ulster-Alice
+1038,2023-08-02,Alice,43,Furniture,3031.17,3231.32,Returning,0.22,Cash,Retail,138946.76,108378.47,130340.31,-21961.84,Leinster,Leinster-Alice
+1064,2023-04-27,Bob,13,Clothing,1645.51,2045.53,Returning,0.28,Cash,Retail,26591.89,19146.16,21391.63,-2245.47,Ulster,Ulster-Bob
+1098,2023-12-10,Eve,28,Electronics,3895.62,4055.44,New,0.03,Bank Transfer,Retail,113552.32,110145.75,109077.36,1068.39,Leinster,Leinster-Eve
+1038,2023-03-13,David,9,Clothing,400.42,446.11,New,0.01,Bank Transfer,Retail,4014.9900000000002,3974.84,3603.78,371.06,Ulster,Ulster-David
+1050,2023-03-05,Bob,20,Electronics,3318.92,3785.91,New,0.24,Bank Transfer,Online,75718.2,57545.83,66378.4,-8832.57,Ulster,Ulster-Bob
+1098,2023-07-24,Alice,19,Electronics,4055.51,4258.84,Returning,0.03,Credit Card,Online,80917.96,78490.42,77054.69,1435.73,Munster,Munster-Alice
+1082,2023-07-28,Alice,48,Food,3380.52,3778.94,Returning,0.3,Bank Transfer,Online,181389.12,126972.38,162264.96,-35292.58,Leinster,Leinster-Alice
+1030,2023-03-13,Alice,39,Food,2511.28,2658.06,New,0.19,Credit Card,Retail,103664.34,83968.12,97939.92000000001,-13971.8,Ulster,Ulster-Alice
+1079,2023-10-04,Eve,12,Food,4754.02,5080.74,New,0.2,Cash,Online,60968.88,48775.1,57048.240000000005,-8273.14,Leinster,Leinster-Eve
+1091,2023-10-01,Eve,15,Electronics,1534.7,1972.62,Returning,0.06,Credit Card,Retail,29589.3,27813.94,23020.5,4793.44,Leinster,Leinster-Eve
+1051,2023-11-16,Bob,31,Furniture,144.88,175.29,New,0.07,Bank Transfer,Online,5433.99,5053.61,4491.28,562.33,Connacht,Connacht-Bob
+1063,2023-12-04,David,14,Clothing,2188.35,2605.36,Returning,0.2,Credit Card,Retail,36475.04,29180.03,30636.899999999998,-1456.87,Munster,Munster-David
+1098,2024-01-01,Bob,11,Clothing,213.41,503.36,Returning,0.27,Bank Transfer,Online,5536.96,4041.98,2347.5099999999998,1694.47,Munster,Munster-Bob
+1052,2023-04-05,Charlie,26,Clothing,4771.99,5079.65,New,0.29,Credit Card,Online,132070.9,93770.34,124071.73999999999,-30301.4,Munster,Munster-Charlie
+1038,2023-06-15,Alice,42,Food,1089.09,1355.44,New,0.06,Cash,Retail,56928.48,53512.77,45741.78,7770.99,Connacht,Connacht-Alice
+1097,2023-02-01,Alice,27,Electronics,3955.19,4393.68,Returning,0.04,Credit Card,Online,118629.36000000002,113884.19,106790.13,7094.06,Connacht,Connacht-Alice
+1088,2023-01-11,Alice,11,Food,3884.13,3915.41,Returning,0.02,Cash,Online,43069.509999999995,42208.12,42725.43,-517.31,Munster,Munster-Alice
+1079,2023-10-28,Bob,38,Furniture,1127.76,1265.66,Returning,0.26,Bank Transfer,Retail,48095.08,35590.36,42854.88,-7264.52,Connacht,Connacht-Bob
+1030,2023-08-05,Bob,34,Electronics,3125.07,3564.19,Returning,0.09,Cash,Online,121182.46,110276.04,106252.38,4023.66,Connacht,Connacht-Bob
+1051,2023-10-16,Alice,43,Clothing,287.99,666.64,Returning,0.0,Bank Transfer,Online,28665.52,28665.52,12383.57,16281.95,Connacht,Connacht-Alice
+1081,2023-04-12,Bob,19,Food,2443.69,2462.34,New,0.07,Bank Transfer,Retail,46784.46000000001,43509.55,46430.11,-2920.56,Munster,Munster-Bob
+1005,2023-09-24,Eve,6,Food,122.5,385.83,Returning,0.1,Cash,Retail,2314.98,2083.48,735.0,1348.48,Munster,Munster-Eve
+1029,2023-08-02,Eve,46,Furniture,4609.66,4879.15,Returning,0.3,Cash,Retail,224440.9,157108.63,212044.36,-54935.73,Munster,Munster-Eve
+1004,2023-06-28,Bob,38,Furniture,4881.63,5088.06,Returning,0.16,Credit Card,Retail,193346.28000000003,162410.88,185501.94,-23091.06,Connacht,Connacht-Bob
+1010,2023-03-29,Alice,49,Food,1150.3,1306.02,New,0.06,Credit Card,Retail,63994.979999999996,60155.28,56364.7,3790.58,Munster,Munster-Alice
+1056,2023-02-10,Bob,42,Furniture,1080.12,1424.17,New,0.1,Cash,Online,59815.14,53833.63,45365.03999999999,8468.59,Connacht,Connacht-Bob
+1017,2023-03-17,Bob,28,Clothing,3780.91,3892.73,Returning,0.1,Cash,Retail,108996.44,98096.8,105865.48,-7768.68,Ulster,Ulster-Bob
+1074,2023-02-15,Bob,1,Furniture,1304.23,1705.71,Returning,0.01,Cash,Retail,1705.71,1688.65,1304.23,384.42,Connacht,Connacht-Bob
+1017,2023-06-09,Charlie,35,Furniture,4480.63,4884.12,New,0.04,Cash,Online,170944.19999999998,164106.43,156822.05000000002,7284.38,Leinster,Leinster-Charlie
+1084,2023-03-21,Eve,40,Food,2890.95,3104.43,New,0.21,Bank Transfer,Online,124177.2,98099.99,115638.0,-17538.01,Munster,Munster-Eve
+1088,2023-11-06,David,8,Food,1786.35,1935.29,New,0.04,Cash,Online,15482.32,14863.03,14290.8,572.23,Munster,Munster-David
+1069,2023-03-27,David,47,Electronics,4171.83,4320.93,New,0.07,Cash,Online,203083.71000000002,188867.85,196076.01,-7208.16,Leinster,Leinster-David
+1034,2023-04-02,Charlie,7,Electronics,2492.36,2738.68,Returning,0.11,Cash,Online,19170.76,17061.98,17446.52,-384.54,Connacht,Connacht-Charlie
+1006,2023-05-28,Bob,11,Food,4562.58,4925.17,New,0.23,Cash,Retail,54176.87,41716.19,50188.38,-8472.19,Ulster,Ulster-Bob
+1053,2023-06-10,Charlie,39,Furniture,4643.67,4829.52,Returning,0.17,Bank Transfer,Online,188351.28000000003,156331.56,181103.13,-24771.57,Leinster,Leinster-Charlie
+1066,2023-07-21,Charlie,4,Furniture,868.83,1177.75,Returning,0.21,Credit Card,Retail,4711.0,3721.69,3475.32,246.37,Leinster,Leinster-Charlie
+1077,2023-08-30,Alice,25,Electronics,61.5,258.92,New,0.17,Credit Card,Online,6473.0,5372.59,1537.5,3835.09,Connacht,Connacht-Alice
+1043,2023-12-19,Eve,12,Electronics,4920.46,5079.68,New,0.21,Credit Card,Retail,60956.16,48155.37,59045.520000000004,-10890.15,Munster,Munster-Eve
+1075,2023-01-02,David,26,Electronics,4535.38,4557.56,New,0.0,Credit Card,Online,118496.56000000001,118496.56,117919.88,576.68,Connacht,Connacht-David
+1023,2023-08-13,Bob,38,Clothing,324.45,336.37,New,0.28,Credit Card,Retail,12782.06,9203.08,12329.1,-3126.02,Leinster,Leinster-Bob
+1055,2023-10-16,David,46,Clothing,4173.52,4294.85,Returning,0.03,Bank Transfer,Retail,197563.1,191636.21,191981.92,-345.71,Leinster,Leinster-David
+1080,2023-08-21,David,12,Electronics,2316.13,2525.27,Returning,0.12,Credit Card,Retail,30303.239999999998,26666.85,27793.56,-1126.71,Munster,Munster-David
+1095,2023-03-18,Eve,43,Furniture,1331.86,1758.98,Returning,0.23,Bank Transfer,Retail,75636.14,58239.83,57269.979999999996,969.85,Munster,Munster-Eve
+1075,2023-04-26,David,37,Electronics,4399.8,4801.06,New,0.13,Bank Transfer,Retail,177639.22,154546.12,162792.6,-8246.48,Munster,Munster-David
+1016,2023-06-03,David,46,Clothing,1023.5,1164.41,Returning,0.28,Credit Card,Retail,53562.86,38565.26,47081.0,-8515.74,Connacht,Connacht-David
+1008,2023-04-13,Charlie,24,Furniture,4739.13,4868.95,New,0.14,Credit Card,Retail,116854.79999999999,100495.13,113739.12,-13243.99,Munster,Munster-Charlie
+1004,2023-07-13,Eve,16,Clothing,1067.83,1189.22,Returning,0.26,Credit Card,Retail,19027.52,14080.36,17085.28,-3004.92,Leinster,Leinster-Eve
+1004,2023-06-15,Alice,13,Furniture,3087.73,3263.96,New,0.24,Cash,Retail,42431.48,32247.92,40140.49,-7892.57,Leinster,Leinster-Alice
+1056,2023-12-25,Bob,25,Clothing,1154.28,1408.4,Returning,0.29,Bank Transfer,Retail,35210.0,24999.1,28857.0,-3857.9,Ulster,Ulster-Bob
+1025,2023-03-31,David,4,Furniture,2751.06,2976.01,Returning,0.28,Credit Card,Online,11904.04,8570.91,11004.24,-2433.33,Connacht,Connacht-David
+1067,2023-06-23,Bob,11,Furniture,3435.68,3552.63,New,0.27,Cash,Retail,39078.93,28527.62,37792.479999999996,-9264.86,Ulster,Ulster-Bob
+1096,2023-05-02,Alice,32,Furniture,991.63,1065.55,Returning,0.22,Bank Transfer,Retail,34097.6,26596.13,31732.16,-5136.03,Leinster,Leinster-Alice
+1067,2023-05-23,Bob,49,Furniture,2628.38,2644.54,Returning,0.11,Cash,Online,129582.45999999999,115328.39,128790.62000000001,-13462.23,Ulster,Ulster-Bob
+1027,2023-04-16,Alice,7,Food,2371.85,2457.29,New,0.03,Cash,Retail,17201.03,16685.0,16602.95,82.05,Leinster,Leinster-Alice
+1093,2023-11-01,Charlie,46,Clothing,401.64,757.26,New,0.21,Credit Card,Retail,34833.96,27518.83,18475.44,9043.39,Ulster,Ulster-Charlie
+1032,2023-12-26,David,11,Clothing,4100.62,4230.0,New,0.29,Bank Transfer,Online,46530.0,33036.3,45106.82,-12070.52,Munster,Munster-David
+1050,2023-11-13,Alice,28,Food,1711.63,1951.24,New,0.22,Cash,Online,54634.72,42615.08,47925.64,-5310.56,Ulster,Ulster-Alice
+1061,2023-05-03,Bob,41,Furniture,2894.18,3193.92,New,0.28,Bank Transfer,Retail,130950.72,94284.52,118661.37999999999,-24376.86,Munster,Munster-Bob
+1051,2023-01-09,David,23,Furniture,2598.18,3042.73,Returning,0.24,Credit Card,Online,69982.79,53186.92,59758.14,-6571.22,Munster,Munster-David
+1019,2023-09-19,Charlie,45,Clothing,2590.64,3036.18,New,0.05,Bank Transfer,Retail,136628.1,129796.7,116578.79999999999,13217.9,Connacht,Connacht-Charlie
+1021,2023-03-14,David,23,Food,580.75,956.16,Returning,0.07,Cash,Retail,21991.68,20452.26,13357.25,7095.01,Munster,Munster-David
+1005,2023-12-25,Alice,28,Furniture,2146.24,2173.47,Returning,0.1,Cash,Retail,60857.159999999996,54771.44,60094.719999999994,-5323.28,Munster,Munster-Alice
+1082,2023-08-11,Charlie,43,Furniture,2289.22,2581.0,New,0.05,Bank Transfer,Online,110983.0,105433.85,98436.45999999999,6997.39,Ulster,Ulster-Charlie
+1092,2023-02-10,Bob,47,Furniture,3681.53,4076.96,Returning,0.17,Cash,Retail,191617.12,159042.21,173031.91,-13989.7,Leinster,Leinster-Bob
+1042,2023-07-23,Charlie,26,Electronics,4208.09,4226.56,Returning,0.29,Cash,Retail,109890.56000000001,78022.3,109410.34,-31388.04,Connacht,Connacht-Charlie
+1061,2023-09-21,Charlie,25,Food,2747.66,3027.01,New,0.23,Cash,Online,75675.25,58269.94,68691.5,-10421.56,Munster,Munster-Charlie
+1022,2023-11-24,Eve,29,Furniture,479.58,909.88,Returning,0.13,Credit Card,Retail,26386.52,22956.27,13907.82,9048.45,Connacht,Connacht-Eve
+1021,2023-06-27,Charlie,19,Electronics,1222.4,1464.71,New,0.0,Credit Card,Retail,27829.49,27829.49,23225.600000000002,4603.89,Ulster,Ulster-Charlie
+1070,2023-12-14,Charlie,33,Food,866.42,878.43,New,0.09,Cash,Retail,28988.19,26379.25,28591.859999999997,-2212.61,Munster,Munster-Charlie
+1001,2023-11-14,David,36,Furniture,666.84,682.24,New,0.16,Bank Transfer,Retail,24560.64,20630.94,24006.24,-3375.3,Ulster,Ulster-David
+1005,2023-03-25,Bob,14,Clothing,1861.2,2075.35,Returning,0.1,Credit Card,Retail,29054.899999999998,26149.41,26056.8,92.61,Connacht,Connacht-Bob
+1012,2023-11-14,David,14,Electronics,1185.5,1271.45,Returning,0.03,Bank Transfer,Retail,17800.3,17266.29,16597.0,669.29,Ulster,Ulster-David
+1090,2023-04-21,David,35,Electronics,1130.6,1466.18,Returning,0.13,Cash,Online,51316.3,44645.18,39571.0,5074.18,Connacht,Connacht-David
+1046,2023-09-08,Alice,30,Furniture,320.73,678.04,Returning,0.08,Cash,Retail,20341.199999999997,18713.9,9621.900000000001,9092.0,Ulster,Ulster-Alice
+1034,2023-01-07,David,28,Furniture,137.47,234.63,New,0.27,Bank Transfer,Retail,6569.639999999999,4795.84,3849.16,946.68,Connacht,Connacht-David
+1049,2023-03-25,Eve,17,Electronics,558.7,1004.08,Returning,0.03,Credit Card,Online,17069.36,16557.28,9497.900000000001,7059.38,Leinster,Leinster-Eve
+1078,2023-07-27,Eve,3,Clothing,902.38,1128.91,New,0.01,Bank Transfer,Retail,3386.7300000000005,3352.86,2707.14,645.72,Ulster,Ulster-Eve
+1090,2023-11-10,Alice,16,Clothing,2183.37,2263.36,Returning,0.0,Bank Transfer,Retail,36213.76,36213.76,34933.92,1279.84,Ulster,Ulster-Alice
+1045,2023-01-22,Bob,46,Food,2577.08,2961.56,Returning,0.1,Cash,Online,136231.76,122608.58,118545.68,4062.9,Leinster,Leinster-Bob
+1027,2023-01-03,Bob,30,Furniture,745.93,1143.02,Returning,0.2,Credit Card,Online,34290.6,27432.48,22377.899999999998,5054.58,Leinster,Leinster-Bob
+1073,2023-05-07,David,29,Clothing,2152.68,2475.93,Returning,0.22,Bank Transfer,Online,71801.97,56005.54,62427.719999999994,-6422.18,Ulster,Ulster-David
+1026,2023-10-24,David,45,Food,1741.66,2169.86,Returning,0.14,Credit Card,Online,97643.70000000001,83973.58,78374.7,5598.88,Leinster,Leinster-David
+1047,2023-07-07,David,15,Clothing,957.95,1329.26,New,0.21,Cash,Online,19938.9,15751.73,14369.25,1382.48,Munster,Munster-David
+1086,2023-12-28,Bob,46,Furniture,83.86,526.14,Returning,0.11,Credit Card,Online,24202.44,21540.17,3857.56,17682.61,Connacht,Connacht-Bob
+1056,2023-01-14,Charlie,25,Food,2361.74,2584.35,Returning,0.2,Cash,Online,64608.75,51687.0,59043.49999999999,-7356.5,Connacht,Connacht-Charlie
+1094,2023-01-12,Eve,38,Food,3443.98,3820.3,Returning,0.01,Credit Card,Retail,145171.4,143719.69,130871.24,12848.45,Connacht,Connacht-Eve
+1063,2023-03-28,Charlie,42,Food,1170.07,1669.95,Returning,0.12,Bank Transfer,Retail,70137.90000000001,61721.35,49142.939999999995,12578.41,Munster,Munster-Charlie
+1048,2023-01-12,Charlie,47,Clothing,702.44,1067.66,New,0.24,Cash,Retail,50180.020000000004,38136.82,33014.68,5122.14,Leinster,Leinster-Charlie
+1061,2023-01-25,Bob,38,Furniture,4440.86,4506.81,Returning,0.24,Bank Transfer,Online,171258.78000000003,130156.67,168752.68,-38596.01,Leinster,Leinster-Bob
+1081,2023-10-28,Charlie,23,Food,1411.37,1675.35,New,0.21,Cash,Retail,38533.049999999996,30441.11,32461.51,-2020.4,Ulster,Ulster-Charlie
+1026,2023-08-31,Alice,25,Electronics,1156.88,1454.68,Returning,0.06,Credit Card,Online,36367.0,34184.98,28922.000000000004,5262.98,Leinster,Leinster-Alice
+1036,2023-05-02,David,42,Furniture,4292.63,4387.99,New,0.07,Credit Card,Retail,184295.58,171394.89,180290.46,-8895.57,Ulster,Ulster-David
+1001,2023-05-27,Alice,7,Electronics,4094.68,4576.5,New,0.3,Cash,Retail,32035.5,22424.85,28662.76,-6237.91,Munster,Munster-Alice
+1008,2023-02-24,Eve,22,Electronics,2269.32,2365.35,New,0.03,Cash,Retail,52037.7,50476.57,49925.04,551.53,Connacht,Connacht-Eve
+1099,2023-08-26,David,17,Food,2471.73,2568.73,New,0.05,Cash,Retail,43668.41,41484.99,42019.41,-534.42,Connacht,Connacht-David
+1052,2023-12-22,Charlie,18,Food,1127.86,1586.29,New,0.04,Credit Card,Online,28553.22,27411.09,20301.48,7109.61,Connacht,Connacht-Charlie
+1079,2023-06-22,Eve,49,Clothing,437.59,675.54,Returning,0.1,Cash,Online,33101.46,29791.31,21441.91,8349.4,Leinster,Leinster-Eve
+1047,2023-08-09,David,41,Clothing,2888.49,2929.45,New,0.06,Cash,Retail,120107.45,112901.0,118428.09,-5527.09,Ulster,Ulster-David
+1056,2023-04-29,Charlie,10,Clothing,536.81,839.92,Returning,0.15,Bank Transfer,Online,8399.199999999999,7139.32,5368.099999999999,1771.22,Ulster,Ulster-Charlie
+1086,2023-11-05,Alice,10,Furniture,2273.91,2578.8,New,0.14,Cash,Online,25788.0,22177.68,22739.1,-561.42,Munster,Munster-Alice
+1014,2023-07-02,David,7,Clothing,4705.46,4747.07,New,0.27,Bank Transfer,Retail,33229.49,24257.53,32938.22,-8680.69,Leinster,Leinster-David
+1090,2023-10-15,Charlie,48,Electronics,4766.53,5253.07,Returning,0.01,Bank Transfer,Online,252147.36,249625.89,228793.44,20832.45,Munster,Munster-Charlie
+1028,2023-11-03,Alice,38,Clothing,1234.69,1511.26,New,0.1,Bank Transfer,Online,57427.88,51685.09,46918.22,4766.87,Ulster,Ulster-Alice
+1087,2023-10-27,Eve,27,Food,3139.36,3423.66,New,0.18,Credit Card,Online,92438.81999999999,75799.83,84762.72,-8962.89,Ulster,Ulster-Eve
+1078,2023-03-23,Eve,33,Clothing,2396.68,2661.54,New,0.18,Bank Transfer,Online,87830.81999999999,72021.27,79090.43999999999,-7069.17,Connacht,Connacht-Eve
+1088,2023-07-30,Eve,1,Furniture,4384.64,4693.9,New,0.14,Cash,Retail,4693.9,4036.75,4384.64,-347.89,Leinster,Leinster-Eve
+1002,2023-05-30,Eve,44,Furniture,1393.58,1533.09,Returning,0.24,Credit Card,Retail,67455.95999999999,51266.53,61317.52,-10050.99,Ulster,Ulster-Eve
+1026,2023-02-06,Bob,34,Electronics,68.33,219.08,New,0.02,Credit Card,Online,7448.72,7299.75,2323.22,4976.53,Connacht,Connacht-Bob
+1014,2023-12-18,David,4,Furniture,854.68,1115.24,New,0.24,Credit Card,Retail,4460.96,3390.33,3418.72,-28.39,Leinster,Leinster-David
+1059,2023-11-08,David,17,Clothing,1780.14,2185.42,Returning,0.15,Credit Card,Retail,37152.14,31579.32,30262.38,1316.94,Munster,Munster-David
+1056,2023-12-27,Bob,4,Food,1612.82,1647.25,Returning,0.04,Credit Card,Retail,6589.0,6325.44,6451.28,-125.84,Leinster,Leinster-Bob
+1007,2023-02-28,Charlie,43,Furniture,3967.25,4272.92,New,0.27,Credit Card,Online,183735.56,134126.96,170591.75,-36464.79,Leinster,Leinster-Charlie
+1003,2023-05-11,Charlie,26,Electronics,3418.78,3824.1,New,0.19,Credit Card,Online,99426.59999999999,80535.55,88888.28,-8352.73,Ulster,Ulster-Charlie
+1023,2023-07-21,Eve,4,Clothing,1532.8,1619.69,Returning,0.05,Bank Transfer,Retail,6478.76,6154.82,6131.2,23.62,Ulster,Ulster-Eve
+1018,2023-08-31,Alice,1,Electronics,2315.83,2333.19,New,0.01,Cash,Retail,2333.19,2309.86,2315.83,-5.97,Leinster,Leinster-Alice
+1038,2023-02-04,Charlie,7,Furniture,523.02,686.25,Returning,0.04,Cash,Online,4803.75,4611.6,3661.14,950.46,Ulster,Ulster-Charlie
+1099,2023-04-03,Alice,30,Furniture,4495.82,4794.01,New,0.18,Bank Transfer,Retail,143820.30000000002,117932.65,134874.59999999998,-16941.95,Ulster,Ulster-Alice
+1015,2023-07-26,David,9,Electronics,4680.35,4758.11,Returning,0.05,Bank Transfer,Online,42822.99,40681.84,42123.15,-1441.31,Ulster,Ulster-David
+1064,2023-12-19,Alice,35,Clothing,4900.03,5118.83,Returning,0.07,Credit Card,Retail,179159.05,166617.92,171501.05,-4883.13,Connacht,Connacht-Alice
+1089,2023-11-28,David,8,Furniture,4349.34,4629.98,Returning,0.01,Credit Card,Online,37039.84,36669.44,34794.72,1874.72,Connacht,Connacht-David
+1028,2023-11-01,Bob,24,Food,911.11,1214.56,New,0.22,Bank Transfer,Online,29149.44,22736.56,21866.64,869.92,Leinster,Leinster-Bob
+1074,2023-12-16,Bob,19,Furniture,278.67,423.13,New,0.24,Credit Card,Online,8039.47,6110.0,5294.7300000000005,815.27,Ulster,Ulster-Bob
+1039,2023-08-01,Eve,36,Clothing,2919.0,3125.01,New,0.24,Cash,Online,112500.36000000002,85500.27,105084.0,-19583.73,Connacht,Connacht-Eve
+1057,2023-06-08,Charlie,43,Furniture,4567.39,4958.78,New,0.04,Cash,Retail,213227.53999999998,204698.44,196397.77000000002,8300.67,Leinster,Leinster-Charlie
+1017,2023-01-24,Eve,27,Electronics,927.89,1399.09,Returning,0.27,Credit Card,Online,37775.43,27576.06,25053.03,2523.03,Ulster,Ulster-Eve
+1086,2023-10-20,David,32,Furniture,84.86,517.18,Returning,0.2,Credit Card,Retail,16549.76,13239.81,2715.52,10524.29,Munster,Munster-David
+1090,2023-01-04,Eve,14,Furniture,4037.21,4323.71,Returning,0.27,Credit Card,Online,60531.94,44188.32,56520.94,-12332.62,Ulster,Ulster-Eve
+1044,2023-08-08,Alice,18,Clothing,430.14,641.18,New,0.13,Cash,Online,11541.24,10040.88,7742.5199999999995,2298.36,Ulster,Ulster-Alice
+1025,2023-12-30,David,28,Electronics,2097.84,2270.99,New,0.13,Credit Card,Retail,63587.719999999994,55321.32,58739.520000000004,-3418.2,Connacht,Connacht-David
+1017,2023-01-20,Bob,29,Clothing,3410.49,3481.72,New,0.24,Bank Transfer,Retail,100969.87999999999,76737.11,98904.20999999999,-22167.1,Leinster,Leinster-Bob
+1013,2023-06-01,Charlie,16,Furniture,1222.15,1284.36,Returning,0.03,Credit Card,Retail,20549.76,19933.27,19554.4,378.87,Leinster,Leinster-Charlie
+1084,2023-02-19,David,35,Food,465.61,812.91,New,0.16,Bank Transfer,Online,28451.85,23899.55,16296.35,7603.2,Connacht,Connacht-David
+1025,2023-06-26,David,47,Furniture,3861.61,3998.91,New,0.25,Credit Card,Online,187948.77,140961.58,181495.67,-40534.09,Ulster,Ulster-David
+1068,2023-04-06,Alice,31,Clothing,3169.37,3304.15,Returning,0.25,Credit Card,Retail,102428.65000000001,76821.49,98250.47,-21428.98,Munster,Munster-Alice
+1010,2023-04-15,Charlie,4,Food,4943.03,5442.15,Returning,0.29,Cash,Online,21768.6,15455.71,19772.12,-4316.41,Ulster,Ulster-Charlie
+1067,2023-09-07,Bob,37,Clothing,1754.32,1856.4,New,0.21,Bank Transfer,Retail,68686.8,54262.57,64909.84,-10647.27,Ulster,Ulster-Bob
+1018,2023-04-27,David,17,Clothing,355.72,438.27,Returning,0.06,Bank Transfer,Online,7450.59,7003.55,6047.240000000001,956.31,Munster,Munster-David
+1100,2023-12-20,David,39,Electronics,3685.03,3743.39,New,0.01,Bank Transfer,Online,145992.21,144532.29,143716.17,816.12,Connacht,Connacht-David
+1086,2023-08-16,Alice,48,Food,2632.58,2926.68,Returning,0.14,Cash,Online,140480.63999999998,120813.35,126363.84,-5550.49,Leinster,Leinster-Alice
